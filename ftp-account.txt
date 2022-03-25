@@ -1,0 +1,6 @@
+103.48.82.186
+222
+root
+Hobasoft!23
+type sftp
+/home/core/domains/demo2.webhobasoft.com
