@@ -140,14 +140,23 @@
         </div>
         <div class="row">
             <div class="col-md-12">
+                <h3>Khối chương trình mới nhất</h3>
                 <div class="form-group">
                     <label for="">Name</label>
-                    <input value="{{ @$content['ctv']['name'] }}" name="content[ctv][name]" type="text" class="form-control">
+                    <input value="{{ @$content['ctv_ct']['name'] }}" name="content[ctv_ct][name]" type="text" class="form-control">
                 </div>
                 <div class="form-group">
                     <label for="">Description</label>
-                    <input value="{{ @$content['ctv']['description'] }}" name="content[ctv][description]" type="text" class="form-control">
+                    <input value="{{ @$content['ctv_ct']['description'] }}" name="content[ctv_ct][description]" type="text" class="form-control">
                 </div>
+{{--                <div class="form-group">--}}
+{{--                    <label for="">tên button</label>--}}
+{{--                    <input value="{{ @$content['ctv']['button_name'] }}" name="content[ctv][button_name]" type="text" class="form-control">--}}
+{{--                </div>--}}
+{{--                <div class="form-group">--}}
+{{--                    <label for="">Link button</label>--}}
+{{--                    <input value="{{ @$content['ctv']['button_link'] }}" name="content[ctv][button_link]" type="text" class="form-control">--}}
+{{--                </div>--}}
             </div>
         </div>
     @elseif($item->id == 23)

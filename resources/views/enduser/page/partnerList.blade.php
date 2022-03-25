@@ -45,11 +45,11 @@
                     <!-- col -->
                     <div class="col-lg-6">
                         <div class="hero-2-content">
-                            <h1>{{@$page_content['ctv']['name']}}</h1>
-                             <p>{{@$page_content['ctv']['description']}}</p>
-                            <div class="hero-btn">
-                                <a href="/lien-he" class="btn theme-btn-1">Liên Hệ với chúng tôi<i class="las la-angle-right"></i></a>
-                            </div>
+{{--                            <h1>{{@$page_content['ctv']['name']}}</h1>--}}
+{{--                             <p>{{@$page_content['ctv']['description']}}</p>--}}
+{{--                            <div class="hero-btn">--}}
+{{--                                <a href="{{@$page_content['ctv']['button_link']}}" class="btn theme-btn-1">{{@$page_content['ctv']['button_name']}}<i class="las la-angle-right"></i></a>--}}
+{{--                            </div>--}}
                         </div>
                     </div>
                     <!-- /col -->
@@ -215,16 +215,17 @@
         <!-- Container -->
         <div class="container">
             <!-- row -->
+
             <div class="row justify-content-center text-center">
                 <!-- col -->
                 <div class="col-lg-8 col-md-12 mb-50">
                     <div class="section-title">
-                        <h2 class="title">Chương trình mới nhất</h2>
+                        <h2 class="title">{{@$page_content['ctv_ct']['name']}}</h2>
                         <div class="title-bdr">
                             <div class="left-bdr"></div>
                             <div class="right-bdr"></div>
                         </div>
-                        <p>ádasdasd</p>
+                        <p>{{@$page_content['ctv_ct']['description']}}</p>
                     </div>
                 </div>
                 <!-- /col -->

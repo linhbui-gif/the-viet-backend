@@ -30,9 +30,9 @@
                 <!-- col -->
                 <div class="col-lg-6">
                     <div class="about-image-warp" style="background-image: url({{$aboutService->picture}});">
-                        <a href="https://www.youtube.com/watch?v=mHjdlO4JSsA" class="video-btn popup-youtube">
-                            <i class="ri-play-fill"></i>
-                        </a>
+{{--                        <a href="https://www.youtube.com/watch?v=mHjdlO4JSsA" class="video-btn popup-youtube">--}}
+{{--                            <i class="ri-play-fill"></i>--}}
+{{--                        </a>--}}
                     </div>
                 </div>
                 <!-- /col -->
