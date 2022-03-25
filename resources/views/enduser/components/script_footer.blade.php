@@ -12,12 +12,12 @@
 
 
 
-    var myModal = new bootstrap.Modal(document.getElementById('modalAutoShow'), {
-        keyboard: false
-    });
-    setTimeout(function () {
-        myModal.show();
-    }, 3000);
+    // var myModal = new bootstrap.Modal(document.getElementById('modalAutoShow'), {
+    //     keyboard: false
+    // });
+    // setTimeout(function () {
+    //     myModal.show();
+    // }, 3000);
 
     $(document).ready(function () {
 

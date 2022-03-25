@@ -59,7 +59,7 @@
                             </form>
                         </div>
                         <div class="option-item">
-                            <a href="javascript:void(0);"  class="btn theme-btn-1">Đăng ký thẻ ngay <i
+                            <a href="/lien-he"  class="btn theme-btn-1">Đăng ký thẻ ngay <i
                                     class="las la-angle-right"></i></a>
                         </div>
                     </div>

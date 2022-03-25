@@ -54,7 +54,7 @@
                                         {!! $b->description !!}
                                         <div class="hero-1-button-group">
                                             <a href=" {{$b->link}}" data-bs-toggle="modal"
-                                               data-bs-target="#modalHomeSLider"
+                                               data-bs-target="#modalHomeSLiders"
                                                class="btn theme-btn-1  wow fadeInUp animated" data-wow-delay="0.8s">
                                                 {{$b->button_name}}
                                                 <i class="uil uil-angle-right-b ml-2 mb-2"></i></a>
@@ -452,8 +452,7 @@
 
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Send message</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
                 </div>
             </div>
         </div>
@@ -478,8 +477,8 @@
                     </form>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Send message</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                    <button type="button" class="btn btn-primary">Gửi thông tin</button>
                 </div>
             </div>
         </div>
