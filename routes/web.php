@@ -43,13 +43,8 @@ Route::namespace('Enduser')->group(function(){
 //    Route::post('/post-forget-password', 'UserController@postForgetPass')->name('user.postForgetPass');
 
     /* -- SEARCH -- */
-<<<<<<< HEAD
 //    Route::get('/search-result', 'CourseController@searchResult')->name('course.searchResult');
     Route::get('/search', 'BlogController@search')->name('blog.search');
-=======
-    Route::get('/search-result', 'CourseController@searchResult')->name('course.searchResult');
-    Route::get('/search', 'CourseController@search')->name('course.search');
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 
     /* -- ORDER -- */
 //    Route::get('/gio-hang', 'OrderController@cart')->name('order.cart');

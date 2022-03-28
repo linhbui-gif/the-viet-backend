@@ -12,21 +12,12 @@
 
 
 
-<<<<<<< HEAD
      var myModal = new bootstrap.Modal(document.getElementById('modalAutoShow'), {
          keyboard: false
      });
      setTimeout(function () {
          myModal.show();
      }, 3000);
-=======
-    // var myModal = new bootstrap.Modal(document.getElementById('modalAutoShow'), {
-    //     keyboard: false
-    // });
-    // setTimeout(function () {
-    //     myModal.show();
-    // }, 3000);
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 
     $(document).ready(function () {
 
@@ -43,10 +34,7 @@
                     "name": modalShow.find('.name').val(),
                     "phone": modalShow.find('.phone').val(),
                     "email": modalShow.find('.email').val(),
-<<<<<<< HEAD
                     "address": modalShow.find('.address').val(),
-=======
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                     // "content": modalShow.find('.content').val()
                 },
                 beforeSend: function () {
@@ -55,11 +43,7 @@
                 success: function (response) {
                     if (response.success == true) {
                         modalShow.find('.btn-popupShow').html('Send message');
-<<<<<<< HEAD
                         modalShow.find('.success').html(`<p class="alert-success p-10 mt-5">Gửi thông tin thành công !!</p>`);
-=======
-                        modalShow.find('.success').html(`<p class="alert-success p-10 mt-5">Gửi thông tin thành công,Hãy kiểm tra Email của bạn !!</p>`);
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                         resetForm();
                     }
                 }
@@ -71,11 +55,7 @@
             modalShow.find('.name').val('');
             modalShow.find('.phone').val('');
             modalShow.find('.email').val('');
-<<<<<<< HEAD
             modalShow.find('.address').val('');
-=======
-            modalShow.find('.content').val('');
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
         }
 
         $("#modalAutoShow").on('hidden.bs.modal', function (e) {
@@ -100,7 +80,6 @@
 
 
 </script>
-<<<<<<< HEAD
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         var lazyloadImages = document.querySelectorAll("img.lazy");
@@ -132,8 +111,5 @@
         window.addEventListener("orientationChange", lazyload);
     });
 </script>
-=======
-
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 @yield('script')
 

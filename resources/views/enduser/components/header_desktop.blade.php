@@ -53,14 +53,9 @@
                     </ul>
                     <div class="others-option d-flex align-items-center">
                         <div class="option-item">
-<<<<<<< HEAD
                             <form class="search-box" method="get" action="{{route('blog.search')}}">
 {{--                                @csrf--}}
                                 <input type="text" value="{{request()->get('keyword')}}" name="keyword" class="input-search" placeholder="Tìm kiếm...">
-=======
-                            <form class="search-box">
-                                <input type="text" class="input-search" placeholder="Tra cứu thông tin...">
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                                 <button type="submit"><i class="uil uil-search-alt"></i></button>
                             </form>
                         </div>
@@ -89,7 +84,6 @@
                 <div class="option-inner">
                     <div class="others-option">
                         <div class="option-item">
-<<<<<<< HEAD
                             <form class="search-box" method="get" action="{{route('blog.search')}}">
                                 {{--                                @csrf--}}
                                 <input type="text" value="{{request()->get('keyword')}}" name="keyword" class="input-search" placeholder="Tìm kiếm...">
@@ -100,18 +94,6 @@
 {{--                        <div class="option-item">--}}
 {{--                            <a href="#" class="btn theme-btn-1"><i class="las la-angle-right"></i>Tìm kiếm</a>--}}
 {{--                        </div>--}}
-=======
-                            <form class="search-box">
-                                <input type="text" class="input-search" placeholder="Search for anything">
-                                <button type="submit"><i class="flaticon-loupe"></i></button>
-                            </form>
-                        </div>
-
-                        <div class="option-item">
-                            <a href="#" class="btn theme-btn-1"><i class="las la-angle-right"></i>Get
-                                Started</a>
-                        </div>
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                     </div>
                 </div>
             </div>
@@ -129,12 +111,8 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-<<<<<<< HEAD
                 <form action="" method="get">
                     @csrf
-=======
-                <form>
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                     <div class="mb-3">
                         <label for="recipient-name" class="col-form-label">Recipient:</label>
                         <input type="text" class="form-control" id="recipient-name">

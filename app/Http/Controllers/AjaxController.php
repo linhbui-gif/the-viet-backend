@@ -6,10 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Banner;
 use App\Contact;
-<<<<<<< HEAD
 use Illuminate\Support\Facades\DB as DB;
-=======
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 use Mail;
 class AjaxController extends Controller
 {
@@ -23,7 +20,6 @@ class AjaxController extends Controller
         ]);
     }
     public function ajaxPopup(Request $request){
-<<<<<<< HEAD
         $input = [
             'fullname' => $request->name,
             'phone' => $request->phone,
@@ -40,14 +36,6 @@ class AjaxController extends Controller
 //       $contact->email = $request->email;
 //       $contact->address = $request->address;
 //       $result = $contact->save();
-=======
-       $contact = new Contact();
-       $contact->fullname = $request->name;
-       $contact->phone = $request->phone;
-       $contact->email = $request->email;
-//       $contact->content = $request->content;
-       $result = $contact->save();
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
        if ($result){
            $email = $request->email;
            $name = $request->name;

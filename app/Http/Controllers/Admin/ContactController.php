@@ -25,11 +25,7 @@ class ContactController extends AdminController
         [ 'name' => 'fullname', 'label' => 'Fullname', 'type' => 'text'],
         [ 'name' => 'phone', 'label' => 'Phone', 'type' => 'text'],
         [ 'name' => 'email', 'label' => 'Email', 'type' => 'text'],
-<<<<<<< HEAD
         [ 'name' => 'address', 'label' => 'Address', 'type' => 'text'],
-=======
-        [ 'name' => 'message', 'label' => 'Message', 'type' => 'text'],
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 //        [ 'name' => 'ip', 'label' => 'Ip', 'type' => 'text'],
 //        [ 'name' => 'status', 'label' => 'Status', 'type' => 'status'],
 //        [ 'name' => 'created_by', 'label' => 'Created by', 'type' => 'text_foreign'],

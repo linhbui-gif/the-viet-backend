@@ -103,11 +103,7 @@ class Common {
         $public_path = base_path().'/public_html';
         if($type == ""){
 
-<<<<<<< HEAD
             $path = public_path() . "/images/" . $folderUpload . "/" . $fileName;
-=======
-            $path = $public_path . "/images/" . $folderUpload . "/" . $fileName;
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 //            dd(public_path());
             if(!empty($fileName) && file_exists($path)){
 
@@ -116,11 +112,7 @@ class Common {
                 return asset("/images/default.jpg");
             }
         }else{
-<<<<<<< HEAD
             $path = public_path() . "/images/" . $folderUpload . "/" . $type . "/" . $fileName;
-=======
-            $path = $public_path . "/images/" . $folderUpload . "/" . $type . "/" . $fileName;
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
             if(!empty($fileName)  && file_exists($path)){
                 return asset("/images/" . $folderUpload .  "/" . $type . "/" . $fileName);
             }else{

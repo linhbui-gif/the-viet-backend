@@ -36,7 +36,6 @@
     <div class="hero-1">
         <div class="authen-page">
             <div class="container">
-<<<<<<< HEAD
                         <div class="authen-page-wrapper">
                             <h4 style="font-size: 1.2rem">ĐĂNG NHẬP ĐỂ XEM THÔNG TIN</h4>
                             <p> Vui lòng đăng nhập bằng tài khoản đăng ký app của bạn ( bao gồm: app hssk, dlvnat, ...)</p>
@@ -111,72 +110,6 @@
             box-shadow: 0 0 4px 0 rgb(0 0 0 / 25%);
         }
     </style>
-=======
-                <div class="authen-page-wrapper">
-                    <h3>ĐĂNG NHẬP</h3>
-                    <p>Vui lòng nhập Mã số và mật khẩu của bạn</p>
-                    @if(Session::has('login') && !Session::get('login') )
-                    <div class="alert alert-danger  mt-2">Tài khoản hoặc mật khẩu không đúng</div>
-                    @endif
-                    <form class="authen-form" action="{{ route('user.postlogin') }}" method="POST">
-                        @csrf
-                        @error('type')
-                        <div class="alert alert-danger  mt-2">{{ $message }}</div>
-                        @enderror
-{{--                        <div class="form-check choosetype">--}}
-{{--                            <input value="1" class="form-check-input" type="radio" name="type" id="flexRadioDefault1">--}}
-{{--                            <label class="form-check-label" for="flexRadioDefault1">--}}
-{{--                                Số thẻ--}}
-{{--                            </label>--}}
-{{--                        </div>--}}
-{{--                        <div class="form-check choosetype">--}}
-{{--                            <input value="2" class="form-check-input" type="radio" name="type" id="flexRadioDefault2" >--}}
-{{--                            <label class="form-check-label" for="flexRadioDefault2">--}}
-{{--                                Mã MS--}}
-{{--                            </label>--}}
-{{--                        </div>--}}
-{{--                        <div class="form-check">--}}
-{{--                            <input value="3" class="form-check-input" type="radio" name="type" id="flexRadioDefault3" >--}}
-{{--                            <label class="form-check-label" for="flexRadioDefault3">--}}
-{{--                                CMND/CCCD--}}
-{{--                            </label>--}}
-{{--                        </div>--}}
-{{--                        <div class="form-check choosetype">--}}
-{{--                            <input value="4" class="form-check-input" type="radio" name="type" id="flexRadioDefault4" >--}}
-{{--                            <label class="form-check-label" for="flexRadioDefault4">--}}
-{{--                                Mã số BHXH--}}
-{{--                            </label>--}}
-{{--                        </div>--}}
-                        <div class="form-group">
-                            <div class="form-item">
-                                <input type="text" class="@error('sothe') is-invalid @enderror" name="sothe" placeholder="Hãy nhập mã số của bạn">
-                                @error('sothe')
-                                <div class="alert alert-danger  mt-2">{{ $message }}</div>
-                                @enderror
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="form-item">
-                                <label>Mật khẩu <span>*</span></label>
-                                <input type="password" class="@error('password') is-invalid @enderror" name="password" placeholder="Hãy nhập mật khẩu của bạn">
-                                @error('password')
-                                <div class="alert alert-danger  mt-2">{{ $message }}</div>
-                                @enderror
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="form-item">
-                                <button class="btn btn-main-color" type="submit">Đăng nhập</button>
-                            </div>
-                        </div>
-
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 @stop
 
 @section('script')

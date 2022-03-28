@@ -14,11 +14,7 @@ $src = '';
 <div class="blog-wrapper mb-30 news-item">
     <div class="blog-img">
         <a href="{{  $link  }}">
-<<<<<<< HEAD
             <img width="100%" class="lazy" data-src="{{  $src }}" alt="{{$data->name}}">
-=======
-            <img width="100%" src="{{  $src }}" alt="{{$data->name}}">
->>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
         </a>
         <p class="category-news">
           {{@$data->category->name}}
