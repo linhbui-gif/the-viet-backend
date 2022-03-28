@@ -68,6 +68,7 @@
                         <form id="contact-form" class="default-form">
                             <div class="row clearfix">
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group contact-icon contacts-name">
+<<<<<<< HEAD
                                     <input type="text" class="name" name="name" placeholder="Tên của bạn... *" required="">
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group contact-icon contacts-email">
@@ -82,6 +83,19 @@
 
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group contact-icon contacts-message">
                                     <textarea name="content" class="content" placeholder="Lời nhắn ..."></textarea>
+=======
+                                    <input type="text" class="name" name="name" placeholder="Your name *" required="">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group contact-icon contacts-email">
+                                    <input type="email" class="email" name="email" placeholder="Your mail *" required="">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group contact-icon contacts-phone">
+                                    <input type="text" class="phone" name="phone" placeholder="Your Phone *" required="">
+                                </div>
+
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group contact-icon contacts-message">
+                                    <textarea name="content" class="content" placeholder="Message..."></textarea>
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                                 </div>
 
                                 <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
@@ -120,8 +134,12 @@
                         "name": modalShow.find('.name').val(),
                         "phone": modalShow.find('.phone').val(),
                         "email": modalShow.find('.email').val(),
+<<<<<<< HEAD
                         "address": modalShow.find('.address').val(),
                         "content": modalShow.find('.content').val()
+=======
+                        // "content": modalShow.find('.content').val()
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                     },
                     beforeSend: function () {
                         modalShow.find('.btn-contact').html(`<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span><span class="sr-only">Loading...</span>`);
@@ -129,7 +147,11 @@
                     success: function (response) {
                         if (response.success == true) {
                             modalShow.find('.btn-contact').html('Send message');
+<<<<<<< HEAD
                             modalShow.find('.success').html(`<p class="alert-success p-10 mt-5">Gửi thông tin thành công !!</p>`);
+=======
+                            modalShow.find('.success').html(`<p class="alert-success p-10 mt-5">Gửi thông tin thành công,Hãy kiểm tra Email của bạn !!</p>`);
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                             resetForm();
                         }
                     }
@@ -141,7 +163,10 @@
                 modalShow.find('.name').val('');
                 modalShow.find('.phone').val('');
                 modalShow.find('.email').val('');
+<<<<<<< HEAD
                 modalShow.find('.address').val('');
+=======
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                 modalShow.find('.content').val('');
             }
 

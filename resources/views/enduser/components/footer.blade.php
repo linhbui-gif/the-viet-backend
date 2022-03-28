@@ -126,8 +126,29 @@
                 <!-- col -->
                 <div class="col-xl-3 col-lg-3 col-md-6">
                     <div class="footer-wrapper mb-30">
+<<<<<<< HEAD
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.8475322176305!2d105.7958798153318!3d20.99874799417722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135acbea41f6d03%3A0xaa70863c42d9a0e4!2zMTY0IEtodeG6pXQgRHV5IFRp4bq_biwgTmjDom4gQ2jDrW5oLCBUaGFuaCBYdcOibiwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1648446797098!5m2!1svi!2s" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         <div class="fb-page" data-href="https://www.facebook.com/Th%E1%BA%BB-Vi%E1%BB%87t-100307918989079" data-tabs="timeline" data-width="" data-height="100" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Th%E1%BA%BB-Vi%E1%BB%87t-100307918989079" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Th%E1%BA%BB-Vi%E1%BB%87t-100307918989079">Thẻ Việt</a></blockquote></div>
+=======
+                        @if(isset($footers['footer_block_4']))
+                            @foreach($footers['footer_block_4'] as $v)
+                                <h3 class="footer-title">{{@$v->name}}</h3>
+                                <div class="subscribes-form">
+                                    <form action="#">
+                                        <input placeholder="Enter email " type="email">
+                                        <button class="btn theme-btn-1 width-100 mt-10"><i
+                                                class="lab la-telegram-plane me-2"></i>subscribe
+                                        </button>
+                                    </form>
+                                </div>
+                                <div class="footer-info">
+                                    <p>   {!! @$v->content !!}</p>
+                                </div>
+                            @endforeach
+                        @endif
+
+
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                     </div>
                 </div>
                 <!-- /col -->
@@ -163,6 +184,7 @@
     <!-- /Container -->
 </footer>
 <!-- /Footer -->
+<<<<<<< HEAD
 <div class="fix_tel">
     <div class="ring-alo-phone ring-alo-green ring-alo-show" id="ring-alo-phoneIcon" style="right: 150px; bottom: -12px;">
         <div class="ring-alo-ph-circle"></div>
@@ -355,3 +377,5 @@
     }
     }
 </style>
+=======
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76

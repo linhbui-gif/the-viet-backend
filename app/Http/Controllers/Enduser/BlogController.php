@@ -74,10 +74,15 @@ class BlogController extends Controller
         $data['tags'] = blog_tags::select('*')->orderby('id')->get();//query builder
         return view(config("edushop.end-user.pathView"). "blogByTags" )->with($data);
     }
+<<<<<<< HEAD
      public function search(Request $request){
         $keyword = $request->keyword;
         $data['keyword'] = $keyword;
         $data['data'] = blog_posts::where('name', 'LIKE', '%' . $keyword . '%')->orWhere('description', 'LIKE', '%' . $keyword . '%')->orderBy('id','desc')->get();
          return view(config("edushop.end-user.pathView"). "blogBySearch" )->with($data);
      }
+=======
+
+
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 }

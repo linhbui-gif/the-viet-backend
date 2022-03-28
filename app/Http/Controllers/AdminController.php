@@ -335,7 +335,10 @@ class AdminController extends BaseController
     }
     public function uploadThumb($thumbObj, $name_picture_custome = ""){
         $public_path = base_path().'/public_html';
+<<<<<<< HEAD
 
+=======
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
         //$thumbObj = $params['picture'];
         $name_picture_custome = Str::slug($name_picture_custome);
         //$alt_picture_custome = $params['alt_picture_custome'];
@@ -349,8 +352,12 @@ class AdminController extends BaseController
 
         $thumbName = Str::random(10) . '.' . $ext;
 
+<<<<<<< HEAD
         $originalPath = public_path().'/images/' . $this->folderUpload .'/';
 //        dd($originalPath);
+=======
+        $originalPath = $public_path.'/images/' . $this->folderUpload .'/';
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
         if( ! \File::isDirectory($originalPath) ) {
             \File::makeDirectory($originalPath, 493, true);
         }
@@ -367,7 +374,11 @@ class AdminController extends BaseController
         if(count($configSize) > 0){
 
             foreach ($configSize as $key => $value) {
+<<<<<<< HEAD
                 $thumbnailPath = public_path().'/images/'.$this->folderUpload .'/'.$key.'/';
+=======
+                $thumbnailPath = $public_path.'/images/'.$this->folderUpload .'/'.$key.'/';
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                 if( ! \File::isDirectory($thumbnailPath) ) {
                     \File::makeDirectory($thumbnailPath, 493, true);
                 }

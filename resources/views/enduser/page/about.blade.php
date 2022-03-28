@@ -158,6 +158,7 @@
             <div class="row">
                 <div class="news-carousel testimonial-item-wrap-1">
                     @if(!empty($blogs))
+<<<<<<< HEAD
                         @foreach($blogs as $k => $data)
                             <div class="news-item">
                                 <div class="col-12">
@@ -181,6 +182,12 @@
                                         </div>
                                     </div>
 
+=======
+                        @foreach($blogs as $k => $blog)
+                            <div class="news-item">
+                                <div class="col-12">
+                                    @include('enduser.page.components.cardComponent',['data' => $blog,'isblog' => true] )
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                                 </div>
                             </div>
                         @endforeach

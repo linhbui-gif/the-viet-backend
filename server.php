@@ -1,4 +1,8 @@
 <?php
+<<<<<<< HEAD
+=======
+
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /**
  * Laravel - A PHP Framework For Web Artisans
  *

@@ -46,6 +46,7 @@ class ConfigController extends AdminController
 
             ]
         ],
+<<<<<<< HEAD
 //                'seo_tab' => [
 //                    'label_tab' => 'Soical Config',
 //                    'items' => [
@@ -57,6 +58,19 @@ class ConfigController extends AdminController
 //                        ['label' => 'Custom Css', 'name' => 'custom_css', 'type' => 'textarea'],
 //                    ]
 //                ]
+=======
+                'seo_tab' => [
+                    'label_tab' => 'Soical Config',
+                    'items' => [
+                        ['label' => 'Facebook url', 'name' => 'facebook_url', 'type' => 'text'],
+                        ['label' => 'Twitter url', 'name' => 'twitter', 'type' => 'text'],
+                        ['label' => 'Instagram url', 'name' => 'instagram', 'type' => 'text'],
+                        ['label' => 'Google analytic', 'name' => 'google_analytic', 'type' => 'textarea'],
+                        ['label' => 'Chat Messenger', 'name' => 'chat_messenger', 'type' => 'text'],
+                        ['label' => 'Custom Css', 'name' => 'custom_css', 'type' => 'textarea'],
+                    ]
+                ]
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
     ];
     protected $searchList = [
         'all' => 'Search By All',

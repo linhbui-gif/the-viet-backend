@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 # Webalizer V2.23-08 Incremental Data - 03/23/2022 23:28:12
 2022 3 23 23 28 12
 11547 9243 94 397 171 46 1124997255 4592 203 0
 15 3 800 1 23
+=======
+# Webalizer V2.23-08 Incremental Data - 03/25/2022 00:12:40
+2022 3 25 0 12 40
+13647 11025 103 412 182 50 1508542815 5196 235 0
+6 180 800 1 25
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 876 748 38415951 10 340 5
 0 0 0 0 0 0
 274 243 12300289 9 69 4
@@ -25,15 +32,24 @@
 792 581 240848011 6 306 4
 1319 985 133818038 10 761 10
 434 365 171091585 15 109 26
+<<<<<<< HEAD
+=======
+1920 1633 378966652 20 527 28
+180 149 4578908 6 77 4
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
+<<<<<<< HEAD
 0 0 0 0 0 0
 0 0 0 0 0 0
 934 756 39712204 293
+=======
+1114 905 44291112 370
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 211 173 29965696 133
 23 11 156880 0
 16 5 143065 0
@@ -43,6 +59,7 @@
 25 24 1726742 5
 346 258 66340365 107
 1168 976 159489631 343
+<<<<<<< HEAD
 1166 970 85855346 656
 683 509 79946572 319
 31 28 518357 16
@@ -61,25 +78,59 @@
 0
 0
 9243
+=======
+1223 1027 113621510 668
+718 539 94032303 326
+112 107 29652428 31
+1483 1217 125281069 550
+1411 952 174389306 672
+1659 1370 128394936 659
+1205 906 51950268 419
+583 514 120424206 176
+510 423 148440152 143
+337 292 10230140 153
+165 159 6382040 36
+176 161 7137724 48
+122 103 73858333 36
+816 707 33972686 239
+64
+0
+0
+11025
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 0
 0
 0
 0
 0
+<<<<<<< HEAD
 22
 0
 1
 323
 0
 1260
+=======
+30
+0
+1
+398
+0
+1329
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 0
 0
 3
 0
 0
 6
+<<<<<<< HEAD
 515
 4
+=======
+675
+5
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 0
 0
 0
@@ -92,7 +143,11 @@
 0
 0
 0
+<<<<<<< HEAD
 106
+=======
+109
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 0
 2
 0
@@ -103,10 +158,17 @@
 0 2 0 35219 0 0
 /admin/widget/22/edit
 0 1 0 16001 1 0
+<<<<<<< HEAD
 /storage/photos/1/thumbs/điểm dịch vụ-07.png
 0 2 0 18030 0 0
 /storage/photos/1/thumbs/prcode1benhvienbachmaidantri1docx-1627258904474 (1).png
 0 5 0 166776 0 0
+=======
+/storage/photos/1/thumbs/prcode1benhvienbachmaidantri1docx-1627258904474 (1).png
+0 5 0 166776 0 0
+/storage/photos/1/thumbs/điểm dịch vụ-07.png
+0 2 0 18030 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/ĐỐI TÁC-08.png
 0 5 0 29404 0 0
 /enduser/theviet/images/services/03.png
@@ -114,6 +176,7 @@
 /storage/photos/1/thumbs/thumbnail_CLRV.jpg
 0 2 0 32018 0 0
 /gioi-thieu
+<<<<<<< HEAD
 0 58 0 1031630 3 0
 /admin/dist/css/skins/skin-blue.min.css
 0 26 0 20187 0 0
@@ -133,14 +196,43 @@
 0 107 0 8985832 0 0
 /admin/plugins/iCheck/minimal/blue.png
 0 28 0 30564 0 0
+=======
+0 60 0 1069752 3 0
+/admin/dist/css/skins/skin-blue.min.css
+0 28 0 21801 0 0
+/admin/introduce/2/edit
+0 2 0 34260 0 0
+/enduser/assets/icons/icon-zalo-white.svg
+0 7 0 5810 0 0
+/enduser/theviet/css/icons.css
+0 154 0 5882880 0 0
+/storage/photos/1/thumbs/download.png
+0 18 0 725472 0 0
+/admin/plugins/iCheck/polaris/polaris.css
+0 33 0 16012 0 0
+/admin/bower_components/jquery-ui/jquery-ui.min.js
+0 1 0 83797 0 0
+/enduser/theviet/fonts/la-brands-400.woff2
+0 161 0 13563520 0 0
+/admin/plugins/iCheck/minimal/blue.png
+0 30 0 32828 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/banner/70/edit
 0 3 0 52410 0 0
 /admin/banner/77/edit
 0 4 0 68639 1 0
 /storage/photos/1/choose-us.png
+<<<<<<< HEAD
 0 54 0 8695248 0 0
 /admin/banner/72/edit
 0 2 0 34688 0 0
+=======
+0 55 0 8876399 0 0
+/admin/banner/72/edit
+0 2 0 34688 0 0
+/admin/qa_question/95/edit
+0 1 0 16676 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /sitemap.xml
 0 1 0 17234 0 0
 /storage/photos/1/thumbs/điểm dịch vụ-06.png
@@ -150,6 +242,7 @@
 /storage/photos/1/điểm dịch vụ-03.png
 0 4 0 184668 0 0
 /enduser/assets/icons/icon-google-white.svg
+<<<<<<< HEAD
 0 2 0 1094 0 0
 /storage/photos/1/Banner trang chủ 5.png
 0 16 0 9956529 0 0
@@ -157,25 +250,45 @@
 0 3 0 49334 0 0
 /admin/widget/45/edit
 0 3 0 49230 0 0
+=======
+0 7 0 3829 0 0
+/storage/photos/1/Banner trang chủ 5.png
+0 16 0 9956529 0 0
+/admin/widget/45/edit
+0 3 0 49230 0 0
+/admin/widget/49/edit
+0 3 0 49334 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/Poster 2.png
 0 29 0 330915 0 0
 /admin/banner/82/edit
 0 8 0 133335 0 0
 /storage/photos/1/hội thảo.png
+<<<<<<< HEAD
 0 34 0 1736280 0 0
+=======
+0 47 0 2676765 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/dashboard
 0 2 0 30438 0 0
 /admin/blog_categories/29/edit
 0 1 0 17157 0 0
 /storage/photos/1/Banner trang chủ 3.png
+<<<<<<< HEAD
 0 59 0 4095603 0 0
 /cong-tac-vien
 0 123 0 1974591 8 7
+=======
+0 73 0 6195423 0 0
+/cong-tac-vien
+0 126 0 2027124 8 7
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/blog_categories/30/edit
 0 1 0 17076 0 0
 /storage/photos/1/thumbs/Bước 2.png
 0 6 0 208368 0 0
 /storage/photos/1/ĐỐI TÁC-05.png
+<<<<<<< HEAD
 0 27 0 124873 0 0
 /vendor/laravel-filemanager/img/152px color.png
 0 18 0 35694 0 0
@@ -211,6 +324,43 @@
 0 31 0 1108401 0 0
 /enduser/theviet/js/main.js
 0 112 0 264347 0 0
+=======
+0 41 0 321102 0 0
+/vendor/laravel-filemanager/img/152px color.png
+0 18 0 35694 0 0
+/tin-tuc/danh-muc/kinh-nghiem
+0 2 0 29169 0 0
+/vendor/laravel-filemanager/img/72px color.png
+0 15 0 14490 0 0
+/admin/introduce/store
+0 2 0 11044 0 0
+/admin/plugins/ckeditor/ckeditor.js
+0 33 0 8578541 0 0
+/admin/banner/93/edit
+0 4 0 69529 0 0
+/admin/dist/jquery-ui/jquery-ui.js
+0 33 0 5143053 0 0
+/storage/photos/1/Bước 4.png
+0 29 0 18916992 0 0
+/admin/bower_components/bootstrap-daterangepicker/daterangepicker.js
+0 1 0 16012 0 0
+/storage/photos/1/Lekythoathuan4-min.jpg
+0 39 0 6100500 0 0
+/admin/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js
+0 33 0 588749 0 0
+/admin/bower_components/bootstrap/dist/js/bootstrap.min.js
+0 60 0 796943 0 0
+/admin/dist/js/pages/dashboard.js
+0 1 0 2343 0 0
+/admin/bower_components/font-awesome/css/font-awesome.min.css
+0 47 0 366027 0 0
+/admin/bower_components/raphael/raphael.min.js
+0 33 0 1182293 0 0
+/storage/photos/1/BỆNH VIỆN-03.png
+0 6 0 949470 0 0
+/enduser/theviet/js/main.js
+0 166 0 395189 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/blog_posts/95/edit
 0 8 0 156784 0 1
 /storage/photos/1/team-1.png
@@ -218,13 +368,18 @@
 /admin/logs
 0 1 0 14737 0 0
 /storage/photos/1/ĐỐI TÁC-08.png
+<<<<<<< HEAD
 0 31 0 84609 0 0
+=======
+0 45 0 217566 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/1-min.png
 0 6 0 1768914 0 0
 /admin/banner/49/edit
 0 2 0 34370 0 0
 /admin/blog_posts
 0 44 0 722636 0 0
+<<<<<<< HEAD
 /admin/config/edit
 0 24 0 403212 0 2
 /admin/blog_tags/29/edit
@@ -233,6 +388,16 @@
 0 38 0 423920 0 0
 /admin/plugins/select2/dist/js/select2.min.js
 0 31 0 724723 0 0
+=======
+/admin/blog_tags/29/edit
+0 1 0 16895 0 0
+/admin/config/edit
+0 24 0 403212 0 2
+/storage/photos/1/02.png
+0 38 0 423920 0 0
+/admin/plugins/select2/dist/js/select2.min.js
+0 33 0 773037 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
 0 1 0 68690 0 0
 /admin/blog_tags/24/edit
@@ -242,33 +407,58 @@
 /admin/banner/47/edit
 0 2 0 34312 0 0
 /lien-he
+<<<<<<< HEAD
 0 71 0 1106092 0 4
+=======
+0 72 0 1121992 0 4
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /tin-tuc/chi-tiet/so-sanh-du-thuyen-ca-nhan-va-du-thuyen-thuong
 0 1 0 20288 0 0
 /storage/photos/1/thumbs/Banner trang chủ 4.png
 0 31 0 239676 0 0
 /dich-vu
+<<<<<<< HEAD
 0 98 0 1663038 8 11
+=======
+0 107 0 1832803 8 11
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/plugins/iCheck/square/blue@2x.png
 0 1 0 4485 0 0
 /admin/laravel-filemanager
 0 109 0 2439005 0 0
+<<<<<<< HEAD
 /admin/plugins/select2/dist/css/select2.min.css
 0 26 0 69937 0 0
 /enduser/theviet/images/hero/hero-2.png
 0 19 0 3581823 0 0
+=======
+/admin/qa_question/98/edit
+0 2 0 33123 0 0
+/admin/plugins/select2/dist/css/select2.min.css
+0 28 0 75531 0 0
+/enduser/theviet/images/hero/hero-2.png
+0 20 0 3770340 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/ĐỐI TÁC-07.png
 0 5 0 29489 0 0
 /storage/photos/1/thumbs/Trang dịch vụ1.png
 0 18 0 237635 0 0
 /images/logo2.png
+<<<<<<< HEAD
 0 12 0 413484 0 0
+=======
+0 18 0 620226 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/page/27/edit
 0 3 0 46551 0 0
 /filemanager/upload
 0 65 0 1994 0 0
 /admin/banner/78/edit
+<<<<<<< HEAD
 0 10 0 168810 0 0
+=======
+0 11 0 185653 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /vendor/laravel-filemanager/css/mime-icons.min.css
 0 19 0 284975 0 0
 /admin/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
@@ -276,6 +466,7 @@
 /tag/bi-quyet
 0 3 0 36817 0 0
 /storage/photos/1/4949564.png
+<<<<<<< HEAD
 0 27 0 31260647 0 0
 /admin/dist/css/myapp.css
 0 26 0 57887 0 0
@@ -287,22 +478,44 @@
 0 1 0 19679 0 0
 /admin/plugins/ckeditor/plugins/dialog/styles/dialog.css
 0 25 0 4025 0 0
+=======
+0 41 0 65363171 0 0
+/admin/dist/css/myapp.css
+0 28 0 62517 0 0
+/enduser/theviet/images/bg/download.png
+0 111 0 13763838 0 0
+/storage/photos/1/thumbs/phat_hanh_the_viet2.jpg
+0 9 0 65992 0 0
+/admin/bower_components/moment/min/moment.min.js
+0 1 0 19679 0 0
+/admin/plugins/ckeditor/plugins/dialog/styles/dialog.css
+0 27 0 4347 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/Bước 1.png
 0 6 0 158376 0 0
 /admin/bower_components/bootstrap-daterangepicker/daterangepicker.css
 0 1 0 1928 0 0
 /admin/qa_answer
+<<<<<<< HEAD
 0 21 0 339121 0 0
+=======
+0 28 0 456371 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/qa_answer/26/edit
 0 1 0 16869 0 0
 /storage/photos/1/thumbs/Banner trang chủ 3.png
 0 36 0 367172 0 0
 /admin/bower_components/alertifyjs/css/alertify.css
+<<<<<<< HEAD
 0 26 0 125113 0 0
+=======
+0 28 0 135121 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/blog_posts/96/edit
 0 1 0 19162 0 0
 /admin/banner/73/edit
 0 4 0 69266 0 0
+<<<<<<< HEAD
 /admin/qa_question/105/edit
 0 4 0 62557 0 0
 /admin/banner/88/edit
@@ -339,6 +552,44 @@
 0 15 0 51400 0 0
 /enduser/theviet/images/svg/apple.svg
 0 102 0 526945 0 0
+=======
+/admin/banner/88/edit
+0 8 0 136553 0 0
+/admin/qa_question/105/edit
+0 6 0 95378 0 0
+/admin/plugins/iCheck/line/_all.css
+0 33 0 76908 0 0
+/admin/banner
+0 336 0 6115187 2 3
+/enduser/theviet/css/line.css
+0 162 0 1892795 0 0
+/storage/photos/1/blog_small_img2.jpg
+0 98 0 8359138 0 0
+/admin/introduce_categories/3/edit
+0 4 0 67831 0 0
+/enduser/theviet/fonts/remixicondf6d.woff2
+0 117 0 14531088 0 0
+/storage/photos/1/Artboard 1.png
+0 61 0 8558857 0 0
+/storage/photos/1/Bước 3.png
+0 29 0 70141276 0 0
+/admin/widget/create
+0 7 0 109393 0 0
+/enduser/theviet/js/plugins.js
+0 165 0 6251190 0 0
+/admin/banner/85/edit
+0 3 0 50969 0 0
+/storage/photos/1/Banner trang chủ 5-min.png
+0 48 0 28658656 0 0
+/admin/page/23/edit
+0 5 0 77988 0 0
+/admin/bower_components/font-awesome/css/font-awesome.css
+0 28 0 229594 0 0
+/storage/photos/1/thumbs/z3267148566827_6b86c478afeb8e79a6d2070b19be1e6c-min.jpg
+0 15 0 51400 0 0
+/enduser/theviet/images/svg/apple.svg
+0 113 0 586070 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/plugins/jvectormap/jquery-jvectormap-world-mill-en.js
 0 1 0 61559 0 0
 /admin/laravel-filemanager/jsonitems
@@ -350,6 +601,7 @@
 /admin/bower_components/bootstrap/dist/css/bootstrap.min.css.map
 0 2 0 247786 0 0
 /admin/menu
+<<<<<<< HEAD
 0 9 0 156837 0 0
 /admin/plugins/ckeditor/skins/moonocolor/icons.png
 0 24 0 729888 0 0
@@ -369,6 +621,27 @@
 0 4 0 67880 0 0
 /admin/dist/js/adminlte.min.js
 0 31 0 121482 0 0
+=======
+0 12 0 216366 0 0
+/enduser/theviet/images/services/04.png
+0 5 0 80625 0 0
+/admin/plugins/ckeditor/skins/moonocolor/icons.png
+0 27 0 790712 0 0
+/admin/plugins/iCheck/square/blue.png
+0 59 0 128915 0 0
+/admin/bower_components/fastclick/lib/fastclick.js
+0 1 0 9162 0 0
+/admin/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css
+0 28 0 71616 0 0
+/enduser/theviet/images/team/team-1.png
+0 6 0 281100 0 0
+/_ignition/health-check
+0 18 0 882 0 1
+/storage/photos/1/thumbs/nad-9824-jpg-1569574739-6075-1569575880-min.jpg
+0 4 0 67880 0 0
+/admin/dist/js/adminlte.min.js
+0 33 0 129580 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/page
 0 64 0 1047874 3 0
 /admin/bower_components/morris.js/morris.min.js
@@ -376,7 +649,11 @@
 /storage/photos/1/image 5.svg
 0 6 0 1201260 0 0
 /storage/photos/1/ĐỐI TÁC-07.png
+<<<<<<< HEAD
 0 25 0 87640 0 0
+=======
+0 39 0 225360 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/widget/25/edit
 0 3 0 48270 0 0
 /admin/blog_tags
@@ -388,15 +665,22 @@
 /storage/photos/1/thumbs/đối tác 1.png
 0 3 0 18181 0 0
 /admin/dist/jquery-ui/jquery-ui.css
+<<<<<<< HEAD
 0 26 0 250788 0 0
 /favicon.ico
 0 46 0 0 0 0
+=======
+0 28 0 270850 0 0
+/favicon.ico
+0 96 0 0 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/ĐỐI TÁC-06.png
 0 5 0 31508 0 0
 /storage/photos/1/thumbs/team-1.png
 0 8 0 67698 0 0
 /storage/photos/1/thumbs/3 trong 1 tính năng-min.png
 0 12 0 208704 0 0
+<<<<<<< HEAD
 /admin/qa_question/108/edit
 0 18 0 277809 0 0
 /harimayco//addcustommenu
@@ -405,14 +689,34 @@
 0 44 0 6650600 0 0
 /storage/photos/1/logo-2.png
 0 153 0 9319744 0 0
+=======
+/enduser/theviet/fonts/la-regular-400.woff2
+0 2 151 25800 0 0
+/admin/qa_question/108/edit
+0 24 0 377151 0 1
+/harimayco//addcustommenu
+0 3 0 0 0 0
+/admin/qa_question/103/edit
+0 1 0 16375 0 0
+/enduser/theviet/images/bg/2.png
+0 50 0 7557500 0 0
+/storage/photos/1/logo-2.png
+0 254 0 15948576 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/plugins/ckeditor/skins/moonocolor/dialog.css
 0 1 0 3596 0 0
 /admin/laravel-filemanager/delete
 0 15 0 330 0 0
 /admin/banner/create
+<<<<<<< HEAD
 0 16 0 264172 1 0
 /enduser/assets/icons/icon-facebook-white.svg
 0 2 0 476 0 0
+=======
+0 17 0 280551 1 0
+/enduser/assets/icons/icon-facebook-white.svg
+0 7 0 1666 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/banner/92/edit
 0 5 0 86343 0 0
 /storage/photos/1/thumbs/điểm dịch vụ-03.png
@@ -426,6 +730,7 @@
 /storage/photos/1/đối tác 1.png
 0 5 0 648732 0 0
 /admin/plugins/iCheck/flat/_all.css
+<<<<<<< HEAD
 0 31 0 37182 0 0
 /admin/banner/84/edit
 0 13 0 221252 0 0
@@ -441,6 +746,23 @@
 0 2 0 21766 0 0
 /admin/bower_components/morris.js/morris.css
 0 28 0 7140 0 0
+=======
+0 33 0 39660 0 0
+/admin/banner/84/edit
+0 13 0 221252 0 0
+/admin/bower_components/jquery/dist/jquery.min.js
+0 33 0 1144365 0 0
+/storage/photos/1/thumbs/Artboard 2.png
+0 30 0 403494 0 0
+/admin/banner/89/edit
+0 6 0 101924 0 0
+/tin-tuc/chi-tiet/ra-mat-the-thanh-toan-va-tra-cuu-thong-tin-du-lich
+0 1 0 19343 0 0
+/storage/photos/1/thumbs/điểm dịch vụ-05.png
+0 2 0 21766 0 0
+/admin/bower_components/morris.js/morris.css
+0 30 0 7650 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/banner/29/edit
 0 8 0 133308 0 0
 /tag/suc-khoe-doi-song
@@ -452,7 +774,11 @@
 /admin/dist/img/user2-160x160.jpg
 0 1 0 7070 0 0
 /enduser/theviet/images/svg/android.svg
+<<<<<<< HEAD
 0 102 0 528023 0 0
+=======
+0 113 0 587269 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/Layer 0-min.png
 0 15 0 412464 0 0
 /storage/photos/1/thumbs/Đặt lịch khám-min.png
@@ -460,7 +786,11 @@
 /storage/photos/1/thumbs/ĐỐI TÁC-04.png
 0 5 0 33251 0 0
 /admin/dist/js/script.js
+<<<<<<< HEAD
 0 48 0 222252 0 0
+=======
+0 51 0 236443 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/banner/56/edit
 0 10 0 238452 0 0
 /admin/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
@@ -468,26 +798,46 @@
 /admin/banner/61/edit
 0 1 0 17323 0 0
 /admin/plugins/ckeditor/plugins/lineheight/plugin.js
+<<<<<<< HEAD
 0 22 0 28876 0 0
 /admin/dist/img/user3-128x128.jpg
 0 1 0 3511 0 0
 /admin/
 0 1 0 10100 0 0
+=======
+0 25 0 31500 0 0
+/admin/
+0 1 0 10100 0 0
+/admin/dist/img/user3-128x128.jpg
+0 1 0 3511 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/banner/63/edit
 0 1 0 16757 0 0
 /admin/banner/43/edit
 0 4 0 68920 0 0
+<<<<<<< HEAD
 /admin/qa_question/create
 0 1 0 15518 0 0
 /popupInterval/ajax-popupInterval
 0 4 0 404 0 0
 /enduser/theviet/js/vendors.js
 0 111 0 17426600 0 0
+=======
+/login/post
+0 3 0 17116 0 0
+/admin/qa_question/create
+0 2 0 31649 0 0
+/popupInterval/ajax-popupInterval
+0 4 0 404 0 0
+/enduser/theviet/js/vendors.js
+0 165 0 25980956 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/introduce_categories/2/edit
 0 5 0 84649 0 0
 /tag/thanh-tuu-noi-bat
 0 1 0 11031 0 0
 /admin/bower_components/Ionicons/css/ionicons.min.css
+<<<<<<< HEAD
 0 44 0 436752 0 0
 /admin/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css.map
 0 1 0 4873 0 0
@@ -503,6 +853,25 @@
 0 8 0 126018 0 0
 /admin/bower_components/bootstrap/dist/js/bootstrap.js
 0 31 0 625813 0 0
+=======
+0 47 0 467227 0 0
+/admin/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css.map
+0 1 0 4873 0 0
+/storage/photos/1/phat_hanh_the_viet2.jpg
+0 46 0 12280492 0 0
+/storage/photos/1/thumbs/Cộng tác viên.jpg
+0 12 0 84600 0 0
+/admin/qa_question/96/edit
+0 2 0 33152 0 0
+/storage/photos/1/thumbs/01.png
+0 12 0 155925 0 0
+/admin/bower_components/font-awesome/fonts/fontawesome-webfont.woff2
+0 33 0 2469120 0 0
+/admin/page/29/edit
+0 8 0 126018 0 0
+/admin/bower_components/bootstrap/dist/js/bootstrap.js
+0 33 0 667533 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/banner/87/edit
 0 11 0 184400 0 0
 /storage/photos/1/thumbs/điểm dịch vụ-04.png
@@ -512,9 +881,15 @@
 /storage/photos/1/đối tác 11-03 (1).png
 0 1 0 1014618 0 0
 /enduser/theviet/fonts/la-solid-900.woff2
+<<<<<<< HEAD
 0 107 0 10255712 0 0
 /admin/qa_answer/24/edit
 0 3 0 47660 0 0
+=======
+0 161 0 15480320 0 0
+/admin/qa_answer/24/edit
+0 4 0 63510 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/điểm dịch vụ-08.png
 0 2 0 17595 0 0
 /admin/banner/91/edit
@@ -529,22 +904,42 @@
 0 1 0 3477 0 0
 /admin/bower_components/Ionicons/fonts/ionicons.ttf
 0 3 0 565524 0 0
+<<<<<<< HEAD
 /admin/plugins/iCheck/square/_all.css
 0 31 0 44322 0 0
 /admin/banner/90/edit
 0 3 0 50711 0 0
 /admin/plugins/iCheck/icheck.min.js
 0 56 0 127240 0 0
+=======
+/admin/qa_answer/28/edit
+0 1 0 15806 0 0
+/admin/plugins/iCheck/square/_all.css
+0 33 0 47276 0 0
+/admin/plugins/iCheck/icheck.min.js
+0 60 0 136332 0 0
+/admin/banner/90/edit
+0 3 0 50711 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/02.png
 0 11 0 196605 0 0
 /storage/photos/1/thumbs/Family-min.png
 0 10 0 522992 0 0
+<<<<<<< HEAD
 /storage/photos/1/thumbs/choose-us.png
 0 20 0 521424 0 0
 /auth/login
 0 89 0 1112244 26 17
 /enduser/assets/images/logo.png
 0 31 0 22565460 0 0
+=======
+/auth/login
+0 95 0 1170992 29 19
+/storage/photos/1/thumbs/choose-us.png
+0 20 0 521424 0 0
+/enduser/assets/images/logo.png
+0 33 0 24069824 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/blog_categories/create
 0 2 0 32044 0 0
 /admin/banner/59/edit
@@ -555,18 +950,33 @@
 0 3 0 49369 0 0
 /admin/widget/24/edit
 0 2 0 31667 0 0
+<<<<<<< HEAD
 /login
 0 9 0 121382 4 0
 /vendor/harimayco-menu/images/spinner-2x.gif
 0 2 0 17072 0 0
+=======
+/vendor/harimayco-menu/images/spinner-2x.gif
+0 2 0 17072 0 0
+/login
+0 191 0 2494413 15 12
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/plugins/ckeditor/plugins/pastefromword/filter/default.js
 0 1 0 7259 0 0
 /admin/blog_tags/23/edit
 0 1 0 17033 0 0
 /admin/welcome
+<<<<<<< HEAD
 0 52 0 766118 1 2
 /admin/qa_question
 0 32 1 669156 1 2
+=======
+0 55 0 812943 1 2
+/profile
+0 37 0 571748 9 1
+/admin/qa_question
+0 54 0 1144511 1 2
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/page/19/edit
 0 32 0 511285 7 0
 /admin/page/31/edit
@@ -574,12 +984,17 @@
 /storage/photos/1/thumbs/Banner trang chủ 5.png
 0 13 0 112043 0 0
 /storage/photos/1/thumbnail_CLRV.jpg
+<<<<<<< HEAD
 0 24 0 1769715 0 0
+=======
+0 38 0 3303468 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /tin-tuc/chi-tiet/tim-hieu-du-thuyen-ca-nhan-cuc-chi-tiet
 0 2 0 40002 0 0
 /storage/photos/1/thumbs/Phat triển điểm nghệ thuật.png
 0 9 0 479010 0 0
 /vendor/harimayco-menu/images/spinner.gif
+<<<<<<< HEAD
 0 1 0 4162 0 0
 /admin/plugins/ckeditor/plugins/scayt/dialogs/dialog.css
 0 25 0 6150 0 0
@@ -597,10 +1012,32 @@
 0 26 0 8417985 0 0
 /admin/bower_components/morris.js/morris.js
 0 31 0 516223 0 0
+=======
+0 2 0 8324 0 0
+/admin/plugins/ckeditor/plugins/scayt/dialogs/dialog.css
+0 27 0 6642 0 0
+/storage/photos/1/z3267148566827_6b86c478afeb8e79a6d2070b19be1e6c-min.jpg
+0 57 0 555220 0 0
+/admin/plugins/ckeditor/styles.js
+0 25 0 45804 0 0
+/admin/plugins/iCheck/minimal/_all.css
+0 33 0 42988 0 0
+/_debugbar/assets/javascript
+0 181 0 20461397 1 17
+/enduser/theviet/css/timeline.css
+0 20 0 224660 0 0
+/storage/photos/1/anh11-2229570.png
+0 40 0 15713572 0 0
+/admin/bower_components/morris.js/morris.js
+0 33 0 550637 0 0
+/admin/qa_question/100/edit
+0 2 0 32821 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/laravel-filemanager/folders
 0 178 0 84013 0 0
 /storage/photos/1/123009714_2908490526047632_4680981963391795996_n.jpg
 0 15 0 986596 0 0
+<<<<<<< HEAD
 /storage/photos/1/Cộng tác viên.jpg
 0 20 0 3716520 0 0
 /vendor/harimayco-menu/style.css
@@ -611,6 +1048,18 @@
 0 9 0 33579582 0 0
 /admin/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
 0 52 0 937456 0 0
+=======
+/vendor/harimayco-menu/style.css
+0 5 0 86838 0 0
+/storage/photos/1/Cộng tác viên.jpg
+0 22 0 3716520 0 0
+/enduser/theviet/css/vendors.css
+0 155 0 13585475 0 0
+/storage/photos/1/Đặt lịch khám.png
+0 9 0 33579582 0 0
+/admin/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+0 56 0 1009568 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/1-min.png
 0 20 0 388087 0 0
 /storage/photos/1/Poster 2.png
@@ -620,6 +1069,7 @@
 /storage/photos/1/thumbs/Phát triển ddieerm dvdl.png
 0 8 0 495195 0 0
 /storage/photos/1/Trang dịch vụ1.png
+<<<<<<< HEAD
 0 14 0 5044302 0 0
 /enduser/theviet/css/style.css
 0 141 0 2549139 0 0
@@ -633,6 +1083,21 @@
 0 3 0 48803 0 0
 /storage/photos/1/Video Call-min.png
 0 49 0 71921974 0 0
+=======
+0 15 0 5885019 0 0
+/enduser/theviet/css/style.css
+0 198 0 3890661 0 0
+/admin/plugins/iCheck/all.css
+0 28 0 8220 0 0
+/admin/bower_components/jquery/dist/jquery.js
+0 60 0 6189979 0 0
+/admin/plugins/ckeditor/plugins/tableselection/styles/tableselection.css
+0 27 0 12856 0 0
+/admin/blog_tags/27/edit
+0 3 0 48803 0 0
+/storage/photos/1/Video Call-min.png
+0 64 0 114508504 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/banner/46/edit
 0 1 0 17246 0 0
 /admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
@@ -645,10 +1110,19 @@
 0 1 0 10587 0 0
 /vendor/laravel-filemanager/css/dropzone.min.css
 0 18 0 36516 0 0
+<<<<<<< HEAD
 /storage/photos/1/thumbs/ĐỐI TÁC-05.png
 0 5 0 33391 0 0
 /admin/banner/80/edit
 0 3 0 50909 0 0
+=======
+/admin/banner/80/edit
+0 3 0 50909 0 0
+/storage/photos/1/thumbs/ĐỐI TÁC-05.png
+0 5 0 33391 0 0
+/admin/qa_answer/29/edit
+0 1 0 15820 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/Video Call-min.png
 0 18 0 276550 0 0
 /admin/banner/74/edit
@@ -660,6 +1134,7 @@
 /vendor/laravel-filemanager/css/cropper.min.css
 0 18 0 23952 0 0
 /enduser/theviet/css/plugins.css
+<<<<<<< HEAD
 0 101 0 1476174 0 0
 /storage/photos/1/nad-9824-jpg-1569574739-6075-1569575880-min.jpg
 0 19 0 660660 0 0
@@ -681,14 +1156,45 @@
 0 1 0 1705 0 0
 /tin-tuc/chi-tiet/the-viet-la-mot-san-pham-quan-trong-trong-giai-phap-chuyen-doi-so-toan-dien-cho-cac-so-y-te-va-benh-vien
 0 10 0 196712 0 1
+=======
+0 154 0 2219711 0 0
+/storage/photos/1/nad-9824-jpg-1569574739-6075-1569575880-min.jpg
+0 33 0 1274130 0 0
+/_debugbar/open
+0 766 0 4513026 0 6
+/admin/qa_question/101/edit
+0 1 0 16426 0 0
+/storage/photos/1/ĐỐI TÁC 1-09 (1).png
+0 43 0 279738 0 0
+/admin/widget
+0 48 0 841475 2 0
+/admin/plugins/iCheck/icheck.js
+0 33 0 142285 0 0
+/admin/page/22/edit
+0 4 0 62368 0 0
+/storage/photos/1/Family-min.png
+0 49 0 218264916 0 0
+/storage/photos/1/ĐỐI TÁC-06.png
+0 41 0 259920 0 0
+/admin/plugins/ckeditor/plugins/pastetools/filter/image.js
+0 1 0 1705 0 0
+/tin-tuc/chi-tiet/the-viet-la-mot-san-pham-quan-trong-trong-giai-phap-chuyen-doi-so-toan-dien-cho-cac-so-y-te-va-benh-vien
+0 11 0 218461 0 1
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/qa_answer/27/edit
 0 8 0 135316 0 0
 /admin/blog_categories
 0 15 0 252700 0 0
 /admin/bower_components/alertify/alertify.core.css
+<<<<<<< HEAD
 0 56 0 57800 0 0
 /client/ajax-client
 0 116 0 244274 1 0
+=======
+0 60 0 61932 0 0
+/client/ajax-client
+0 125 0 250114 1 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /ajax/ctv
 0 1 0 101 0 0
 /enduser/theviet/images/services/01.png
@@ -702,6 +1208,7 @@
 /admin/plugins/ckeditor/skins/moonocolor/images/refresh.png
 0 1 0 422 0 0
 /_debugbar/assets/stylesheets
+<<<<<<< HEAD
 0 128 0 16435565 0 3
 /
 0 423 0 10231775 117 43
@@ -733,6 +1240,39 @@
 0 106 0 6825728 0 0
 /admin/plugins/ckeditor/lang/en.js
 0 22 0 161845 0 0
+=======
+0 182 0 23319969 0 3
+/
+0 465 0 11175808 123 48
+/storage/photos/1/Bãi đỗ xe thông minh.png
+0 46 0 5288697 0 0
+/admin/bower_components/alertify/alertify.js
+0 60 0 367643 0 0
+/storage/photos/1/thumbs/Phát hành thẻ tại các điểm dịch vụ.png
+0 29 0 388705 0 0
+/admin/plugins/kcfinder/adapters/jquery.js
+0 33 0 28908 0 0
+/storage/photos/1/Bước 2.png
+0 24 0 64533630 0 0
+/harimayco//updateitem
+0 20 0 0 0 0
+/storage/photos/1/thumbs/về chúng tôi 2-min.png
+0 12 0 486060 0 0
+/admin/bower_components/bootstrap/dist/css/bootstrap.min.css
+0 47 0 1160769 0 0
+/admin/blog_categories/24/edit
+0 1 0 17082 0 0
+/harimayco//generatemenucontrol
+0 20 0 600 0 0
+/admin/qa_question/104/edit
+0 2 0 32155 0 0
+/enduser/theviet/images/logo-2.png
+0 160 0 10369856 0 0
+/admin/blog_posts/create
+0 17 0 284740 0 0
+/admin/plugins/ckeditor/lang/en.js
+0 25 0 176557 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/plugins/ckeditor/skins/moonocolor/images/lock.png
 0 1 0 475 0 0
 /admin/plugins/ckeditor/plugins/pastetools/filter/common.js
@@ -742,7 +1282,11 @@
 /admin/dist/css/skins/_all-skins.min.css
 0 1 0 4773 0 0
 /storage/photos/1/prcode1benhvienbachmaidantri1docx-1627258904474 (1).png
+<<<<<<< HEAD
 0 26 0 5774130 0 0
+=======
+0 40 0 10778376 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/banner/53/edit
 0 8 0 139680 0 0
 /admin/blog_posts/97/edit
@@ -760,25 +1304,45 @@
 /tin-tuc/danh-muc/thanh-tuu-noi-bat
 0 4 0 63039 0 0
 /admin/dist/css/app.css
+<<<<<<< HEAD
 0 26 0 1116096 0 0
 /storage/photos/1/thumbs/hội thảo.png
 0 10 0 579080 0 0
+=======
+0 28 0 1205382 0 0
+/storage/photos/1/thumbs/hội thảo.png
+0 10 0 579080 0 0
+/admin/qa_question/99/edit
+0 2 0 33535 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/Artboard 1.png
 0 30 0 410586 0 0
 /storage/photos/1/thumbs/Bước 3.png
 0 6 0 208791 0 0
 /admin/qa_answer/create
+<<<<<<< HEAD
 0 4 0 62268 0 0
 /admin/dist/img/plus-solid.svg
 0 23 0 6325 0 0
 /enduser/theviet/images/hero/banner-bg.png
 0 103 0 4015539 0 0
+=======
+0 7 0 109231 0 0
+/enduser/theviet/images/hero/banner-bg.png
+0 114 0 4461710 0 0
+/admin/dist/img/plus-solid.svg
+0 24 0 6600 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/Poster 1.png
 0 29 0 250580 0 0
 /admin/widget/29/edit
 0 2 0 33770 0 0
 /storage/photos/1/ĐỐI TÁC-04.png
+<<<<<<< HEAD
 0 31 0 118503 0 0
+=======
+0 45 0 304722 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/banner/83/edit
 0 6 0 101987 0 0
 /storage/photos/1/download.png
@@ -792,6 +1356,7 @@
 /tin-tuc/chi-tiet/vi-sao-gioi-thuong-luu-chuong-du-thuyen-ca-nhan
 0 2 0 39699 0 0
 /admin/bower_components/alertifyjs/css/themes/default.css
+<<<<<<< HEAD
 0 26 0 18712 0 0
 /storage/photos/1/thumbs/anh11-2229570.png
 0 9 0 381870 0 0
@@ -799,6 +1364,15 @@
 0 45 0 5696656 0 0
 /admin/plugins/ckeditor/config.js
 0 25 0 9750 0 0
+=======
+0 28 0 20208 0 0
+/storage/photos/1/Artboard 2.png
+0 58 0 8994720 0 0
+/storage/photos/1/thumbs/anh11-2229570.png
+0 9 0 381870 0 0
+/admin/plugins/ckeditor/config.js
+0 27 0 10530 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/banner/42/edit
 0 6 0 108698 0 0
 /storage/photos/1/Cộng tác viên.png
@@ -806,18 +1380,29 @@
 /storage/photos/1/bệnh viện 1-09 (1).png
 0 4 0 35548 0 0
 /robots.txt
+<<<<<<< HEAD
 0 41 0 2788 0 0
+=======
+0 42 0 2856 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/dist/js/demo.js
 0 1 0 3175 0 0
 /storage/photos/1/thumbs/Lekythoathuan4-min.jpg
 0 6 0 83585 0 0
 /huong-dan
+<<<<<<< HEAD
 0 82 0 1290917 1 3
+=======
+0 83 0 1307273 1 3
+/admin/qa_question/94/edit
+0 1 0 16747 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /storage/photos/1/thumbs/blog_small_img2.jpg
 0 18 0 263754 0 0
 /ajax/lien-he
 0 3 0 303 0 0
 /admin/plugins/iCheck/futurico/futurico.css
+<<<<<<< HEAD
 0 31 0 14442 0 0
 /storage/photos/1/thumbs/Banner trang chủ 5-min.png
 0 12 0 281368 0 0
@@ -825,11 +1410,21 @@
 0 44 0 939895 0 0
 /admin/widget/23/edit
 0 1 0 15809 0 0
+=======
+0 33 0 15404 0 0
+/storage/photos/1/thumbs/Banner trang chủ 5-min.png
+0 12 0 281368 0 0
+/admin/widget/23/edit
+0 1 0 15809 0 0
+/admin/dist/css/AdminLTE.min.css
+0 47 0 1005473 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /vendor/laravel-filemanager/js/cropper.min.js
 0 18 0 132025 0 0
 /admin/blog_posts/101/edit
 0 2 0 38265 0 0
 /storage/photos/1/Phát hành thẻ tại các điểm dịch vụ.png
+<<<<<<< HEAD
 0 38 0 3286971 0 0
 /admin/plugins/iCheck/square/blue.css
 0 56 0 27784 0 0
@@ -857,11 +1452,45 @@
 0 6 0 99980 0 0
 /admin/plugins/ckeditor/plugins/magicline/images/icon.png
 0 7 0 931 0 0
+=======
+0 40 0 3286971 0 0
+/admin/plugins/iCheck/square/blue.css
+0 60 0 29772 0 0
+/storage/photos/1/thumbs/logo-2.png
+0 18 0 227826 0 0
+/admin/plugins/ckeditor/skins/moonocolor/editor.css
+0 25 0 165181 0 0
+/storage/photos/1/Đặt lịch khám-min.png
+0 63 0 282524240 0 0
+/admin/banner/55/edit
+0 3 0 51879 0 0
+/admin/qa_question/97/edit
+0 1 0 16538 0 0
+/huong-dan/chi-tiet/sasd
+0 3 0 46669 0 0
+/postLogout
+0 2 0 10507 0 0
+/storage/photos/1/thumbs/Bãi đỗ xe thông minh.png
+0 30 0 551352 0 0
+/admin/plugins/ckeditor/plugins/lineheight/lang/en.js
+0 27 0 2484 0 0
+/storage/photos/1/Layer 0-min.png
+0 12 0 514944 0 0
+/tin-tuc/danh-muc/chuong-trinh-moi-nhat
+0 6 0 90281 0 0
+/admin/bower_components/alertifyjs/alertify.js
+0 33 0 940813 0 0
+/admin/role
+0 6 0 99980 0 0
+/admin/plugins/ckeditor/plugins/magicline/images/icon.png
+0 8 0 1064 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /tin-tuc/chi-tiet/phat-hanh-the-viet-mot-the-quoc-gia-dau-tien-danh-cho-khach-du-lich
 0 3 0 55741 0 1
 /admin/contact
 0 22 0 352560 0 0
 /storage/photos/1/Poster 1.png
+<<<<<<< HEAD
 0 25 0 985033 0 0
 /admin/dist/fonts/vendor/element-ui/lib/theme-chalk/element-icons.woff
 0 27 0 160264 0 0
@@ -891,6 +1520,37 @@
 0 4 0 31672 0 0
 /vendor/harimayco-menu/scripts.js
 0 4 0 128985 0 0
+=======
+0 26 0 1125752 0 0
+/admin/dist/fonts/vendor/element-ui/lib/theme-chalk/element-icons.woff
+0 29 0 172592 0 0
+/admin/banner/86/edit
+0 8 0 135356 0 0
+/admin/banner/81/edit
+0 7 0 117886 0 0
+/admin/plugins/ckeditor/plugins/copyformatting/styles/copyformatting.css
+0 24 0 16112 0 0
+/admin/banner/79/edit
+0 11 0 184961 1 1
+/vendor/harimayco-menu/menu.js
+0 5 0 8047 0 0
+/enduser/theviet/images/bg/choose-us.png
+0 113 0 19745459 0 0
+/tin-tuc
+0 79 0 1357633 3 1
+/storage/photos/1/Bước 1.png
+0 26 0 78321370 0 0
+/images/default.jpg
+0 33 0 69184 0 0
+/admin/introduce_categories/create
+0 2 0 32620 0 0
+/vendor/harimayco-menu/scripts2.js
+0 5 0 36353 0 0
+/storage/photos/1/thumbs/ĐỐI TÁC 1-09 (1).png
+0 4 0 31672 0 0
+/vendor/harimayco-menu/scripts.js
+0 5 0 161228 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /admin/plugins/ckeditor/skins/moonocolor/images/close.png
 0 1 0 468 0 0
 # End Of Table - urls
@@ -908,11 +1568,19 @@
 0 29 29 2025714 1 1647205891
 /
 139.99.122.87
+<<<<<<< HEAD
 0 7 5 111875 7 1648075339
 -
 222.252.17.253
 0 1250 967 146929586 7 1648050805
 /_debugbar/assets/javascript
+=======
+0 8 5 125067 8 1648123946
+-
+222.252.17.253
+0 1417 1081 154602095 8 1648139111
+/admin/qa_question/94/edit
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 128.30.52.96
 0 1 1 18905 1 1647042902
 /
@@ -923,7 +1591,11 @@
 0 1 0 12783 0 0
 -
 139.99.122.1
+<<<<<<< HEAD
 0 8 7 100430 7 1648035545
+=======
+0 9 8 114503 8 1648119101
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /login
 42.119.12.208
 0 2 1 42455 1 1648061060
@@ -931,12 +1603,21 @@
 112.197.9.7
 0 3 2 424696 1 1646471139
 /_debugbar/assets/javascript
+<<<<<<< HEAD
 42.117.10.75
 0 17 16 468529 1 1647524472
 /_debugbar/assets/stylesheets
 54.39.103.104
 0 198 198 13648714 9 1646987717
 /_debugbar/assets/javascript
+=======
+54.39.103.104
+0 198 198 13648714 9 1646987717
+/_debugbar/assets/javascript
+42.117.10.75
+0 17 16 468529 1 1647524472
+/_debugbar/assets/stylesheets
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 162.214.145.74
 0 1 0 12774 0 0
 -
@@ -946,8 +1627,16 @@
 183.91.188.228
 0 17 16 468553 1 1647033507
 /_debugbar/assets/javascript
+<<<<<<< HEAD
 49.213.78.31
 0 43 41 1757299 10 1648037199
+=======
+1.55.254.90
+0 64 62 30943097 1 1648147953
+/login
+49.213.78.31
+0 55 52 2160937 12 1648144248
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /login
 66.249.66.84
 0 1 0 12999 0 0
@@ -985,6 +1674,12 @@
 185.191.171.1
 0 1 0 12908 1 1646171413
 -
+<<<<<<< HEAD
+=======
+59.153.245.89
+0 3 2 30633 1 1648149694
+/login
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 154.54.249.195
 0 4 2 26511 2 1647551357
 -
@@ -998,8 +1693,13 @@
 0 22 22 1516950 1 1646996602
 /_debugbar/assets/stylesheets
 115.74.118.39
+<<<<<<< HEAD
 0 15 13 224939 14 1648035823
 /login
+=======
+0 21 17 309141 18 1648166813
+/
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 14.232.245.104
 0 1 1 16189 1 1647018630
 /cong-tac-vien
@@ -1016,8 +1716,13 @@
 0 119 115 4069682 1 1646425854
 /
 14.248.147.60
+<<<<<<< HEAD
 0 269 252 34872948 7 1648053424
 /login
+=======
+0 709 645 192416789 12 1648142599
+/profile
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 185.70.11.21
 0 1 0 12772 0 0
 -
@@ -1034,20 +1739,35 @@
 0 433 344 13592467 8 1646840379
 /lien-he
 113.23.52.72
+<<<<<<< HEAD
 0 1092 824 355958222 20 1648075322
+=======
+0 1097 824 355958222 20 1648075322
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 /cong-tac-vien
 66.249.71.103
 0 3 2 13120 0 0
 -
 139.99.62.149
+<<<<<<< HEAD
 0 5 5 97220 5 1647966362
 /
+=======
+0 6 6 111479 6 1648147210
+/login
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 66.249.79.244
 0 3 2 13116 0 0
 -
 173.201.183.100
 0 1 0 12772 0 0
 -
+<<<<<<< HEAD
+=======
+59.153.244.217
+0 23 19 996860 1 1648144803
+/login
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 128.30.52.72
 0 1 1 18919 1 1647042908
 /
@@ -1063,6 +1783,15 @@
 51.222.253.5
 0 1 1 68 0 0
 -
+<<<<<<< HEAD
+=======
+59.153.243.242
+0 19 19 950880 1 1648123166
+/_debugbar/assets/stylesheets
+42.112.11.138
+0 17 16 468502 1 1648167109
+/_debugbar/assets/javascript
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 66.249.79.215
 0 1 0 12991 0 0
 -
@@ -1096,6 +1825,12 @@
 42.117.10.8
 0 18 18 1395173 1 1646987911
 /_debugbar/assets/javascript
+<<<<<<< HEAD
+=======
+1.52.161.237
+0 2 1 61227 1 1648163761
+/login
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 35.203.250.227
 0 2 2 126399 1 1647515921
 /
@@ -1117,9 +1852,18 @@
 54.36.148.87
 0 1 1 68 0 0
 -
+<<<<<<< HEAD
 139.99.121.234
 0 2 2 37416 2 1646750821
 /
+=======
+42.119.80.52
+0 1089 971 178715768 3 1648150117
+/login
+139.99.121.234
+0 4 3 52542 3 1648142649
+/login
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 93.113.111.193
 0 1 0 12775 0 0
 -
@@ -1133,7 +1877,11 @@
 0 8 8 2411187 1 1647042867
 /_debugbar/assets/stylesheets
 66.249.71.97
+<<<<<<< HEAD
 0 7 3 52381 0 0
+=======
+0 8 3 65419 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 -
 113.23.55.83
 0 42 42 2298946 1 1646871903
@@ -1154,17 +1902,36 @@
 0 2 1 13105 0 0
 -
 66.249.71.113
+<<<<<<< HEAD
 0 4 2 26131 0 0
+=======
+0 6 3 39184 0 0
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 -
 35.215.64.144
 0 16 11 827827 1 1646334625
 /
+<<<<<<< HEAD
 27.79.224.155
 0 225 170 6342018 8 1647508808
 /
 171.244.166.187
 0 1 1 107881 1 1647015614
 /
+=======
+59.153.245.194
+0 2 1 15402 1 1648149371
+/login
+27.79.224.155
+0 225 170 6342018 8 1647508808
+/
+183.81.121.32
+0 240 170 5473812 3 1648167160
+/dich-vu
+171.244.166.187
+0 2 2 168364 2 1648124388
+/login
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 66.249.79.242
 0 8 2 78081 0 0
 -
@@ -1175,6 +1942,7 @@
 0 1 1 65632 0 0
 -
 139.99.8.123
+<<<<<<< HEAD
 0 4 3 49084 3 1648029453
 /auth/login
 # End Of Table - sites (monthly)
@@ -1224,10 +1992,39 @@
 139.99.8.123
 0 2 1 10988 1 1648029453
 /auth/login
+=======
+0 6 5 91049 5 1648166716
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+49.213.78.31
+0 1 1 34457 0 0
+-
+115.74.118.39
+0 1 1 20950 1 1648166813
+/
+42.112.11.138
+0 17 16 468502 1 1648167109
+/_debugbar/assets/javascript
+66.249.71.113
+0 2 1 13053 0 0
+-
+183.81.121.32
+0 158 129 4020992 1 1648167160
+/dich-vu
+139.99.8.123
+0 1 1 20954 1 1648166716
+/
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 # End Of Table - sites (daily)
 # -referrers- 
 http://demo2.webhobasoft.com/admin/widget
 0 2
+<<<<<<< HEAD
+=======
+https://demo2.webhobasoft.com/admin/qa_question/97/edit
+0 2
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/contact.html
 0 2
 https://demo2.webhobasoft.com/admin/banner/89/edit
@@ -1235,9 +2032,15 @@ https://demo2.webhobasoft.com/admin/banner/89/edit
 https://demo2.webhobasoft.com/admin/blog_posts/95/edit
 0 31
 https://demo2.webhobasoft.com/
+<<<<<<< HEAD
 0 2379
 https://demo2.webhobasoft.com/admin/welcome
 0 696
+=======
+0 2911
+https://demo2.webhobasoft.com/admin/welcome
+0 749
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 http://demo2.webhobasoft.com/admin/blog_categories
 0 3
 https://demo2.webhobasoft.com/admin/blog_categories
@@ -1246,10 +2049,19 @@ https://demo2.webhobasoft.com/tin-tuc/danh-muc/thanh-tuu-noi-bat
 0 1
 https://demo2.webhobasoft.com/admin/banner/43/edit
 0 3
+<<<<<<< HEAD
 https://demo2.webhobasoft.com/admin/page/19/edit
 0 31
 https://demo2.webhobasoft.com/dich-vu
 0 162
+=======
+https://demo2.webhobasoft.com/profile
+0 108
+https://demo2.webhobasoft.com/admin/page/19/edit
+0 31
+https://demo2.webhobasoft.com/dich-vu
+0 173
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/tin-tuc/chi-tiet/vi-sao-gioi-thuong-luu-chuong-du-thuyen-ca-nhan
 0 1
 http://demo2.webhobasoft.com/admin/blog_categories/create
@@ -1260,10 +2072,21 @@ https://demo2.webhobasoft.com/admin/laravel-filemanager
 0 1982
 https://demo2.webhobasoft.com/admin/blog_tags/29/edit
 0 2
+<<<<<<< HEAD
 https://demo2.webhobasoft.com/admin/blog_tags
 0 17
 https://demo2.webhobasoft.com/admin/widget
 0 55
+=======
+https://demo2.webhobasoft.com/admin/qa_question/100/edit
+0 5
+https://demo2.webhobasoft.com/admin/widget
+0 55
+https://demo2.webhobasoft.com/admin/blog_tags
+0 17
+https://demo2.webhobasoft.com/admin/qa_answer/29/edit
+0 2
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/contact
 0 25
 http://demo2.webhobasoft.com/admin/plugins/ckeditor/skins/moonocolor/editor.css
@@ -1274,17 +2097,27 @@ http://103.48.82.186:2222/
 0 1
 https://demo2.webhobasoft.com/admin/widget/24/edit
 0 4
+<<<<<<< HEAD
+=======
+https://demo2.webhobasoft.com/admin/qa_question/98/edit
+0 10
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 http://demo2.webhobasoft.com/admin/blog_tags
 0 2
 https://demo2.webhobasoft.com/auth/postLogin
 0 4
 https://demo2.webhobasoft.com/admin/banner/78/edit
+<<<<<<< HEAD
 0 31
+=======
+0 34
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 http://demo2.webhobasoft.com/admin/dist/css/myapp.css
 0 2
 https://demo2.webhobasoft.com/admin/banner/62/edit
 0 10
 https://demo2.webhobasoft.com/admin/menu
+<<<<<<< HEAD
 0 50
 https://demo2.webhobasoft.com/admin/blog_posts
 0 96
@@ -1294,12 +2127,27 @@ https://demo2.webhobasoft.com/admin/page/31/edit
 0 6
 https://demo2.webhobasoft.com/admin/dist/css/myapp.css
 0 42
+=======
+0 79
+https://demo2.webhobasoft.com/admin/banner/70/edit
+0 6
+https://demo2.webhobasoft.com/admin/blog_posts
+0 96
+https://demo2.webhobasoft.com/admin/page/31/edit
+0 6
+https://demo2.webhobasoft.com/admin/dist/css/myapp.css
+0 43
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/page
 0 117
 https://demo2.webhobasoft.com/admin/
 0 22
 https://demo2.webhobasoft.com/vendor/harimayco-menu/style.css
+<<<<<<< HEAD
 0 2
+=======
+0 3
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/introduce/create
 0 16
 https://demo2.webhobasoft.com/admin/page/27/edit
@@ -1307,7 +2155,11 @@ https://demo2.webhobasoft.com/admin/page/27/edit
 https://demo2.webhobasoft.com/admin/banner/86/edit
 0 25
 https://demo2.webhobasoft.com/admin/qa_question/108/edit
+<<<<<<< HEAD
 0 18
+=======
+0 36
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 http://demo2.webhobasoft.com/admin/banner
 0 4
 https://demo2.webhobasoft.com/admin/banner/80/edit
@@ -1320,6 +2172,11 @@ https://demo2.webhobasoft.com/admin/blog_tags/create
 0 12
 https://demo2.webhobasoft.com/admin/plugins/ckeditor/skins/moonocolor/dialog.css
 0 3
+<<<<<<< HEAD
+=======
+https://demo2.webhobasoft.com/admin/qa_question/103/edit
+0 2
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 http://demo2.webhobasoft.com/enduser/theviet/css/style.css
 0 13
 http://demo2.webhobasoft.com/admin/plugins/iCheck/minimal/_all.css
@@ -1327,27 +2184,50 @@ http://demo2.webhobasoft.com/admin/plugins/iCheck/minimal/_all.css
 http://demo2.webhobasoft.com/admin/dist/css/app.css
 0 1
 https://demo2.webhobasoft.com/admin/qa_question/104/edit
+<<<<<<< HEAD
 0 2
 https://demo2.webhobasoft.com/admin/qa_answer/24/edit
 0 4
 https://demo2.webhobasoft.com/admin/bower_components/bootstrap/dist/css/bootstrap.min.css
 0 51
+=======
+0 4
+https://demo2.webhobasoft.com/admin/qa_answer/24/edit
+0 6
+https://demo2.webhobasoft.com/admin/bower_components/bootstrap/dist/css/bootstrap.min.css
+0 55
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/tin-tuc/chi-tiet/net-dep-thuong-luu-cua-van-hoa-du-thuyen
 0 29
 https://demo2.webhobasoft.com/admin/banner/29/edit
 0 38
 https://demo2.webhobasoft.com/enduser/theviet/css/style.css
+<<<<<<< HEAD
 0 113
+=======
+0 166
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/widget/49/edit
 0 4
 https://demo2.webhobasoft.com/tin-tuc/chi-tiet/the-viet-la-mot-san-pham-quan-trong-trong-giai-phap-chuyen-doi-so-toan-dien-cho-cac-so-y-te-va-benh-vien
 0 6
+<<<<<<< HEAD
 https://www.google.com/
 0 25
 - (Direct Request)
 0 908
 https://demo2.webhobasoft.com/admin/qa_answer
 0 27
+=======
+https://demo2.webhobasoft.com/admin/qa_question/101/edit
+0 2
+https://www.google.com/
+0 27
+- (Direct Request)
+0 1276
+https://demo2.webhobasoft.com/admin/qa_answer
+0 34
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/blog_tags/23/edit
 0 2
 https://demo2.webhobasoft.com/admin/banner/81/edit
@@ -1366,12 +2246,23 @@ https://chat.zalo.me/
 0 19
 https://demo2.webhobasoft.com/admin/banner/83/edit
 0 10
+<<<<<<< HEAD
 https://demo2.webhobasoft.com/admin/banner/90/edit
 0 4
 https://demo2.webhobasoft.com/gioi-thieu
 0 178
 https://demo2.webhobasoft.com/admin/qa_question/105/edit
 0 3
+=======
+https://demo2.webhobasoft.com/gioi-thieu
+0 186
+https://demo2.webhobasoft.com/admin/banner/90/edit
+0 4
+https://demo2.webhobasoft.com/admin/qa_question/105/edit
+0 7
+https://demo2.webhobasoft.com/admin/qa_question/95/edit
+0 2
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/introduce/2/edit
 0 13
 https://demo2.webhobasoft.com/admin/blog_categories/24/edit
@@ -1385,15 +2276,25 @@ https://demo2.webhobasoft.com/admin/blog_posts/96/edit
 https://demo2.webhobasoft.com/admin/widget/28/edit
 0 2
 https://demo2.webhobasoft.com/tin-tuc
+<<<<<<< HEAD
 0 191
+=======
+0 194
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/blog_categories/30/edit
 0 3
 https://demo2.webhobasoft.com/admin/page/22/edit
 0 6
 https://demo2.webhobasoft.com/admin/banner/79/edit
+<<<<<<< HEAD
 0 56
 https://demo2.webhobasoft.com/login
 0 12
+=======
+0 58
+https://demo2.webhobasoft.com/login
+0 597
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/dashboard
 0 4
 https://demo2.webhobasoft.com/admin/banner/55/edit
@@ -1405,13 +2306,21 @@ https://demo2.webhobasoft.com/admin/role/1/edit
 https://demo2.webhobasoft.com/admin/introduce/store
 0 7
 https://demo2.webhobasoft.com/admin/qa_question
+<<<<<<< HEAD
 0 38
+=======
+0 62
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/qa_answer/26/edit
 0 3
 https://demo2.webhobasoft.com/admin/banner/85/edit
 0 22
 https://demo2.webhobasoft.com/lien-he
+<<<<<<< HEAD
 0 93
+=======
+0 95
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com
 0 5
 https://demo2.webhobasoft.com/admin/banner/74/edit
@@ -1428,10 +2337,17 @@ https://demo2.webhobasoft.com/admin/banner/87/edit
 0 31
 http://demo2.webhobasoft.com/admin/introduce_categories
 0 1
+<<<<<<< HEAD
 https://demo2.webhobasoft.com/admin/banner/49/edit
 0 6
 https://demo2.webhobasoft.com/tin-tuc/chi-tiet/so-sanh-du-thuyen-ca-nhan-va-du-thuyen-thuong
 0 1
+=======
+https://demo2.webhobasoft.com/tin-tuc/chi-tiet/so-sanh-du-thuyen-ca-nhan-va-du-thuyen-thuong
+0 1
+https://demo2.webhobasoft.com/admin/banner/49/edit
+0 6
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/introduce
 0 31
 https://demo2.webhobasoft.com/admin/banner/63/edit
@@ -1441,13 +2357,21 @@ http://demo2.webhobasoft.com/admin/plugins/iCheck/all.css
 https://demo2.webhobasoft.com/admin/blog_posts/91/edit
 0 3
 https://demo2.webhobasoft.com/admin/plugins/iCheck/square/blue.css
+<<<<<<< HEAD
 0 55
+=======
+0 59
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/introduce_categories/create
 0 17
 https://demo2.webhobasoft.com/admin/banner/47/edit
 0 6
 https://demo2.webhobasoft.com/admin/plugins/iCheck/minimal/_all.css
+<<<<<<< HEAD
 0 27
+=======
+0 29
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/banner/82/edit
 0 46
 http://demo2.webhobasoft.com/
@@ -1465,6 +2389,7 @@ https://demo2.webhobasoft.com/admin/banner/69/edit
 https://demo2.webhobasoft.com/tin-tuc/chi-tiet/ra-mat-the-thanh-toan-va-tra-cuu-thong-tin-du-lich
 0 1
 https://demo2.webhobasoft.com/auth/login
+<<<<<<< HEAD
 0 719
 https://demo2.webhobasoft.com/admin/banner/create
 0 74
@@ -1472,6 +2397,15 @@ https://demo2.webhobasoft.com/cong-tac-vien
 0 311
 https://demo2.webhobasoft.com/enduser/theviet/css/icons.css
 0 281
+=======
+0 766
+https://demo2.webhobasoft.com/cong-tac-vien
+0 335
+https://demo2.webhobasoft.com/admin/banner/create
+0 84
+https://demo2.webhobasoft.com/enduser/theviet/css/icons.css
+0 397
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 http://demo2.webhobasoft.com/enduser/theviet/css/icons.css
 0 39
 https://demo2.webhobasoft.com/admin/qa_answer/27/edit
@@ -1492,8 +2426,15 @@ http://demo2.webhobasoft.com/admin/welcome
 0 26
 http://demo2.webhobasoft.com/auth/login
 0 16
+<<<<<<< HEAD
 https://demo2.webhobasoft.com/admin/dist/css/app.css
 0 26
+=======
+https://demo2.webhobasoft.com/admin/qa_question/96/edit
+0 4
+https://demo2.webhobasoft.com/admin/dist/css/app.css
+0 28
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/introduce_categories/3/edit
 0 15
 https://demo2.webhobasoft.com/admin/blog_categories/29/edit
@@ -1509,12 +2450,17 @@ https://demo2.webhobasoft.com/admin/qa_question/create
 https://demo2.webhobasoft.com/admin/banner/84/edit
 0 27
 https://demo2.webhobasoft.com/admin/qa_answer/create
+<<<<<<< HEAD
 0 3
+=======
+0 9
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/blog_posts/create
 0 45
 https://demo2.webhobasoft.com/admin/page/29/edit
 0 13
 https://demo2.webhobasoft.com/admin/plugins/ckeditor/skins/moonocolor/editor.css
+<<<<<<< HEAD
 0 23
 https://demo2.webhobasoft.com/admin/widget/create
 0 14
@@ -1522,16 +2468,31 @@ https://demo2.webhobasoft.com/admin/banner/92/edit
 0 7
 http://demo2.webhobasoft.com/admin/menu
 0 37
+=======
+0 26
+https://demo2.webhobasoft.com/admin/widget/create
+0 14
+http://demo2.webhobasoft.com/admin/menu
+0 37
+https://demo2.webhobasoft.com/admin/banner/92/edit
+0 7
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/blog_tags/27/edit
 0 5
 http://demo2.webhobasoft.com/admin/config/edit
 0 3
+<<<<<<< HEAD
+=======
+https://demo2.webhobasoft.com/admin/qa_question/99/edit
+0 4
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/huong-dan/danh-muc/bui-quang-linh
 0 2
 http://demo2.webhobasoft.com/admin/bower_components/bootstrap/dist/css/bootstrap.min.css
 0 1
 https://demo2.webhobasoft.com/admin/banner/56/edit
 0 44
+<<<<<<< HEAD
 http://demo2.webhobasoft.com/admin/bower_components/font-awesome/css/font-awesome.min.css
 0 1
 https://demo2.webhobasoft.com/huong-dan
@@ -1542,6 +2503,18 @@ https://demo2.webhobasoft.com/admin/banner/91/edit
 0 2
 https://demo2.webhobasoft.com/admin/banner/59/edit
 0 2
+=======
+https://demo2.webhobasoft.com/huong-dan
+0 155
+http://demo2.webhobasoft.com/admin/bower_components/font-awesome/css/font-awesome.min.css
+0 1
+https://demo2.webhobasoft.com/admin/banner/73/edit
+0 6
+https://demo2.webhobasoft.com/admin/banner/59/edit
+0 2
+https://demo2.webhobasoft.com/admin/banner/91/edit
+0 2
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/config/edit
 0 19
 https://demo2.webhobasoft.com/admin/banner/93/edit
@@ -1549,9 +2522,17 @@ https://demo2.webhobasoft.com/admin/banner/93/edit
 https://demo2.webhobasoft.com/admin/blog_posts/101/edit
 0 4
 https://demo2.webhobasoft.com/admin/banner
+<<<<<<< HEAD
 0 772
 https://demo2.webhobasoft.com/admin/page/28/edit
 0 10
+=======
+0 785
+https://demo2.webhobasoft.com/admin/page/28/edit
+0 10
+https://demo2.webhobasoft.com/admin/qa_answer/28/edit
+0 2
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/banner/42/edit
 0 21
 https://demo2.webhobasoft.com/admin/banner/88/edit
@@ -1561,13 +2542,21 @@ https://demo2.webhobasoft.com/tin-tuc/chi-tiet/tim-hieu-du-thuyen-ca-nhan-cuc-ch
 https://demo2.webhobasoft.com/admin/widget/45/edit
 0 4
 https://demo2.webhobasoft.com/admin/bower_components/font-awesome/css/font-awesome.min.css
+<<<<<<< HEAD
 0 24
+=======
+0 26
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 https://demo2.webhobasoft.com/admin/blog_tags/24/edit
 0 2
 http://demo2.webhobasoft.com/admin/banner/42/edit
 0 11
 https://demo2.webhobasoft.com/admin/plugins/iCheck/all.css
+<<<<<<< HEAD
 0 180
+=======
+0 192
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 # End Of Table - referrers
 # -agents- 
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/92.0.4512.0 Safari/537.36
@@ -1579,17 +2568,31 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 0 2622
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+<<<<<<< HEAD
 0 112
 Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36 _zbot
 0 14
+=======
+0 129
+Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+0 2
+Opera/9.25.(Windows NT 10.0; mg-MG) Presto/2.9.186 Version/10.00
+0 1
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36 _zbot
+0 18
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 2
 Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4590.2 Mobile Safari/537.36 C
 0 24
 Mozilla/5.0 (Linux; Android 9; SM-N976V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Mobile Safari/537.36 Zalo
+<<<<<<< HEAD
 0 15
+=======
+0 21
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 0 17
 Validator.nu/LV http://validator.w3.org/services
@@ -1597,9 +2600,15 @@ Validator.nu/LV http://validator.w3.org/services
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S) Chrome/7
 0 5
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+<<<<<<< HEAD
 0 71
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
 0 1788
+=======
+0 74
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+0 3792
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
 0 6
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S; 4c323822
@@ -1615,21 +2624,40 @@ Jigsaw/2.3.0 W3C_CSS_Validator_JFouffa/2.0 (See
 Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
 0 4
 facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) _zbot
+<<<<<<< HEAD
 0 26
 Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 0 11
 ZaloPC-win32-24v454
 0 16
+=======
+0 33
+Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 14
+ZaloPC-win32-24v454
+0 17
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Mobile 
 0 1
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 0 17
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
 0 17
+<<<<<<< HEAD
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36 _zbot
 0 18
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36
 0 1889
+=======
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 
+0 19
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36 _zbot
+0 23
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36
+0 1889
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/24.0.890.0 Safari/531.2
+0 2
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
 0 2
 Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
@@ -1654,6 +2682,11 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like 
 0 24
 Mozilla/5.0 (Windows NT 6.1; Win64; x64; +http://www.komodia.com/newwiki/index.php/URL_server_crawler) KomodiaBot/1.0
 0 22
+<<<<<<< HEAD
+=======
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Zalo iOS / 370
+0 28
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 Opera/9.38.(Windows NT 6.2; de-BE) Presto/2.9.161 Version/11.00
 0 1
 W3C_Validator/1.3 http://validator.w3.org/services

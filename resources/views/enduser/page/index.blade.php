@@ -104,10 +104,17 @@
                 <!-- col -->
                 <div class="col-lg-6">
                     <div class="about-image-warp" style="background-image: url({{@$bannerAbout->picture}});">
+<<<<<<< HEAD
 {{--                        <a href="javascript::void(0)" data-src="https://www.youtube.com/embed/mHjdlO4JSsA"--}}
 {{--                           data-bs-toggle="modal" data-bs-target="#modalShowVideo" class="video-btn popup-youtube">--}}
 {{--                            <i class="ri-play-fill"></i>--}}
 {{--                        </a>--}}
+=======
+                        <a href="javascript::void(0)" data-src="https://www.youtube.com/embed/mHjdlO4JSsA"
+                           data-bs-toggle="modal" data-bs-target="#modalShowVideo" class="video-btn popup-youtube">
+                            <i class="ri-play-fill"></i>
+                        </a>
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                     </div>
                 </div>
                 <!-- /col -->
@@ -176,7 +183,11 @@
                                     <div class="single-services-item">
                                         <div class="image">
                                             <a href="#">
+<<<<<<< HEAD
                                                 <img class="lazy" data-src="{{$b->picture}}" alt="{{$b->name}}">
+=======
+                                                <img src="{{$b->picture}}" alt="{{$b->name}}">
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                                             </a>
                                         </div>
                                         <div class="content">
@@ -228,7 +239,11 @@
                                     <div class="client-logo">
                                         <div class="client-logo-img modalClient" data-id="{{$v->id}}" data-bs-toggle="modal"
                                              data-bs-target="#modalClient" ><img
+<<<<<<< HEAD
                                                 class="lazy img-fluid" data-src="{{$v->picture}}" alt="" ></div>
+=======
+                                                src="{{$v->picture}}" alt="" class="img-fluid"></div>
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                                     </div>
                                 </div>
                             </div>
@@ -254,7 +269,11 @@
                 <!-- col -->
                 <div class="col-lg-6">
                     <div class="why-choose-us-img">
+<<<<<<< HEAD
                         <img class="lazy" data-src="{{@$bannerwhy->picture}}" alt="Image">
+=======
+                        <img src="{{@$bannerwhy->picture}}" alt="Image">
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                     </div>
                 </div>
                 <!-- /col -->
@@ -314,7 +333,11 @@
                 <!-- col -->
                 <div class="col-xl-5 col-lg-6 col-md-6">
                     <div class="download-1-img">
+<<<<<<< HEAD
                         <img  class="lazy img-fluid" data-src="{{@$bannerDownload->picture}}" alt="">
+=======
+                        <img class=" img-fluid" src="{{@$bannerDownload->picture}}" alt="">
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                     </div>
                 </div>
                 <!-- /col -->
@@ -355,17 +378,29 @@
                         @foreach($news as $k => $data)
                             <div class="news-item">
                                 <div class="col-12">
+<<<<<<< HEAD
                                     <div class="blog-wrapper mb-30 news-item custom-style">
                                         <div class="blog-img">
                                             <a href="#">
                                                 <img width="100%" class="lazy" data-src="{{  $data->url_picture }}" alt="{{$data->name}}">
+=======
+                                    <div class="blog-wrapper mb-30 news-item">
+                                        <div class="blog-img">
+                                            <a href="#">
+                                                <img width="100%" src="{{  $data->url_picture }}" alt="{{$data->name}}">
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                                             </a>
                                             <p class="category-news">
                                                 {{@$data->category->name}}
                                             </p>
                                         </div>
+<<<<<<< HEAD
                                         <div class="blog-text ">
                                             <h4><a href="{{route('new.newDetail',['slug'=>$data->slug])}}">{{$data->name}}</a></h4>
+=======
+                                        <div class="blog-text">
+                                            <h4><a href="#">{{$data->name}}</a></h4>
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                                             <p>{!! $data->description !!}</p>
                                             <a href="{{route('new.newDetail',['slug'=>$data->slug])}}">Đọc tiếp <i class="ri-arrow-right-line"></i></a>
                                             <div class="blog-meta">
@@ -388,7 +423,11 @@
     </div>
     <!-- /Blog -->
     <!-- Testimonial -->
+<<<<<<< HEAD
     <div class="testimonial-area pb-100">
+=======
+    <div class="testimonial-area pt-100 pb-100">
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
         <!-- Container -->
         <div class="container">
             <!-- row -->
@@ -420,7 +459,11 @@
                             @foreach($bannerTeam as $k => $v)
                                 <div class="testimonial-item">
                                     <div class="testimonial-author">
+<<<<<<< HEAD
                                         <img class="lazy" data-src="{{$v->picture}}" alt="small-avatar">
+=======
+                                        <img src="{{$v->picture}}" alt="small-avatar">
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                                         <h3 class="author__title">{{$v->title}}</h3>
                                         {{--                                <span class="author__meta">United States</span>--}}
                                     </div>
@@ -448,7 +491,11 @@
                     <h5 class="modal-title title-client" id="exampleModalLabel"></h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
+<<<<<<< HEAD
                 <div class="modal-body appendIframe" style="padding: 2rem!important;">
+=======
+                <div class="modal-body appendIframe">
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 
                 </div>
                 <div class="modal-footer">
@@ -486,15 +533,22 @@
     <div class="modal fade" id="modalAutoShow" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
+<<<<<<< HEAD
                 <div class="modal-header flex-wrap">
                     <h5 class="modal-title" id="exampleModalLabel">THẺ VIỆT KÍNH CHÀO QUÝ KHÁCH</h5>
                     <p class="w-100">Bạn vui lòng để lại thông tin liên hệ để được hưởng chính sách ưu đãi từ chúng tôi</p>
 {{--                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>--}}
+=======
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Modal khi vào trang</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                 </div>
                 <div class="modal-body">
                     <form>
                         <div class="mb-3">
                             <label for="recipient-name" class="col-form-label">Tên:</label>
+<<<<<<< HEAD
                             <input type="text" name="name" class="form-control name" id="recipient-name" placeholder="Nhập tên của bạn...">
                         </div>
                         <div class="mb-3">
@@ -516,11 +570,35 @@
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng lại </button>
                         <button type="button" class="btn btn-primary btn-popupShow">Gửi thông tin
 
+=======
+                            <input type="text" name="name" class="form-control name" id="recipient-name">
+                        </div>
+                        <div class="mb-3">
+                            <label for="recipient-name" class="col-form-label">Số điện thoại:</label>
+                            <input type="text" name="phone" class="form-control phone" id="recipient-name">
+                        </div>
+                        <div class="mb-3">
+                            <label for="recipient-name" class="col-form-label">Email:</label>
+                            <input type="text" name="email" class="form-control email" id="recipient-name">
+                        </div>
+                        <div class="mb-3">
+                            <label for="message-text" class="col-form-label">Message:</label>
+                            <textarea name="content" class="form-control content" id="message-text"></textarea>
+                        </div>
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary btn-popupShow">Send message
+                            {{--                        <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>--}}
+                            {{--                        <span class="sr-only">Loading...</span>--}}
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                         </button>
                     </form>
                     <div class="success">
 
                     </div>
+<<<<<<< HEAD
+=======
+                    {{--                <p class="alert-success p-10 mt-5">Lưu thông tin thành công</p>--}}
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
                 </div>
 
             </div>

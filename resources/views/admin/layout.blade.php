@@ -45,7 +45,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
 <body class="hold-transition skin-blue sidebar-mini">
 <div class="wrapper">
+<<<<<<< HEAD
 
+=======
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
    @include("admin.partials.top-nav")
    @include("admin.partials.right-sidebar")
     <!-- Content Wrapper. Contains page content -->
@@ -66,7 +69,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <!-- Main Footer -->
    @include("admin.partials.footer")
     <div class="control-sidebar-bg"></div>
+<<<<<<< HEAD
 
+=======
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 </div>
 @include("admin.partials.script")
 @yield('script')

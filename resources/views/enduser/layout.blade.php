@@ -19,11 +19,16 @@
 </style>
 <!-- Cta -->
 
+<<<<<<< HEAD
 <div id="fb-root"></div>
+=======
+
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 
 <!-- /Cta -->
 @include("enduser.components.footer")
 <!-- Go top -->
+<<<<<<< HEAD
 <div class="messenger" style="    width: 60px;
     position: fixed;
     right: 30px;
@@ -36,6 +41,8 @@
 </div>
 
 
+=======
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 <div class="go-top-area">
     <div class="go-top-wrap">
         <div class="go-top-btn-wrap">
@@ -46,6 +53,7 @@
         </div>
     </div>
 </div>
+<<<<<<< HEAD
 <style>
     .custom-style h4 {
         font-size: 20px;
@@ -93,6 +101,10 @@
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v13.0"
         nonce="NeJWATSq"></script>
 
+=======
+<!-- /Go top -->
+@include("enduser.components.script_footer")
+>>>>>>> a6161ca74c792b711484149921340ca40ec1ec76
 </body>
 
 </html>
